@@ -70,4 +70,4 @@ def gerar():
     textfile.close()
 
 
-print(gerar())
+return gerar()
