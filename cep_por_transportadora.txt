@@ -1,0 +1,3372 @@
+38500000; Jadlog; SE; MG; MONTE CARMELO; Interior; 4; 41,37
+91900580; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+93520280; Jadlog; S; RS; NOVO HAMBURGO; Capital; 3; 12,83
+87020230; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+5014000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+49032490; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+80010010; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+8717720; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+26215200; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+2461000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4120040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+17501010; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+9861090; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+74683330; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+69020040; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+39205000; Jadlog; SE; MG; TRES MARIAS; Interior; 5; 41,37
+26120320; Jadlog; SE; RJ; BELFORD ROXO; Capital; 3; 12,51
+13049489; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+15803215; Jadlog; SE; SP; CATANDUVA; Capital; 3; 12,51
+4081010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13211377; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+7847160; Jadlog; SE; SP; FRANCO DA ROCHA; Interior; 3; 41,37
+13033740; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+20241320; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+66093180; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+1403002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4513080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+85856360; Jadlog; S; PR; FOZ DO IGUACU; Capital; 3; 12,51
+36052570; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+90410001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+36500009; Jadlog; SE; MG; UBA; Capital; 3; 12,51
+65066190; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+4702000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98300000; Jadlog; S; RS; PALMEIRA DAS MISSOES; Interior; 6; 41,69
+24110002; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+24440710; Jadlog; SE; RJ; SAO GONCALO; Capital; 4; 12,51
+57035190; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+30180090; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+88102450; Jadlog; S; SC; SAO JOSE; Capital; 2; 12,44
+5303000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59020510; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+79052420; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+22230061; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+3355000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29143246; Jadlog; SE; ES; CARIACICA; Capital; 3; 13,15
+30220410; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+98400000; Jadlog; S; RS; FREDERICO WESTPHALEN; Interior; 6; 41,69
+32185160; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+5409010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22231130; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+2554000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9360160; Jadlog; SE; SP; MAUA; Capital; 2; 12,51
+75650000; Jadlog; CO; GO; MORRINHOS; Interior; 3; 46,35
+87020035; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+68035270; Jadlog; N; PA; SANTAREM; Capital; 15; 13,55
+17690000; Jadlog; SE; SP; BASTOS; Capital; 3; 12,51
+22210030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85012270; Jadlog; S; PR; GUARAPUAVA; Capital; 3; 12,51
+1244020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90690400; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+77823110; Jadlog; N; TO; ARAGUAINA; Capital; 6; 13,55
+4140000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+50740040; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+1220010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+82400070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+26554110; Jadlog; SE; RJ; MESQUITA; Capital; 3; 12,51
+29102903; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+93020650; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+5438000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59500000; Jadlog; NE; RN; MACAU; Interior; 16; 44,3
+96211030; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+3280050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+32341070; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+13280198; Jadlog; SE; SP; VINHEDO; Capital; 2; 12,51
+95901150; Jadlog; S; RS; LAJEADO; Capital; 3; 12,83
+4675100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96020480; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+3405040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+40394050; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+5508090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1311300; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58010270; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+60410302; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+24130220; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+4632040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1453010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9580670; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+39800370; Jadlog; SE; MG; TEOFILO OTONI; Capital; 3; 12,51
+90540040; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+74351011; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+13220005; Jadlog; SE; SP; VARZEA PAULISTA; Capital; 3; 12,51
+22790350; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22210030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+41502135; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+82630600; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+85601010; Jadlog; S; PR; FRANCISCO BELTRAO; Capital; 3; 12,51
+40296250; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+15807304; Jadlog; SE; SP; CATANDUVA; Capital; 3; 12,51
+7091000; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+60170241; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+8090554; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+89610000; Jadlog; S; SC; HERVAL DOESTE; Capital; 4; 12,44
+91720330; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+2435030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11055001; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+78055458; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+17290000; Jadlog; SE; SP; MACATUBA; Interior; 3; 41,37
+41915430; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+86702666; Jadlog; S; PR; ARAPONGAS; Capital; 2; 12,51
+75906370; Jadlog; CO; GO; RIO VERDE; Capital; 5; 13,15
+66063000; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+58700070; Jadlog; NE; PB; PATOS; Capital; 9; 14,1
+92310270; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+93010090; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+51011000; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+72150617; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+74367635; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+55540000; Jadlog; NE; PE; PALMARES; Interior; 13; 46,75
+63010215; Jadlog; NE; CE; JUAZEIRO DO NORTE; Capital; 10; 14,42
+24120192; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+91340480; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+14021686; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+81925070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+45028610; Jadlog; NE; BA; VITORIA DA CONQUISTA; Capital; 8; 13,47
+5007002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90540041; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+67020250; Jadlog; N; PA; ANANINDEUA; Capital; 7; 13,55
+80040352; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+2179020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+50761030; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+81020235; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+20210030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+70772030; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+79032340; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+1244000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90035070; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88040600; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+76824210; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+90010080; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+12919450; Jadlog; SE; SP; BRAGANCA PAULISTA; Capital; 2; 12,51
+79092011; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+80010050; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+25575110; Jadlog; SE; RJ; SAO JOAO DE MERITI; Capital; 3; 12,51
+52021180; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+13070159; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+80730180; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+30493180; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+60355050; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+13911472; Jadlog; SE; SP; MONTE ALEGRE DO SUL; Interior; 3; 41,37
+84050090; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+90130061; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+3085030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11088280; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+30350410; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+57020091; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+2452002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+41760110; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+17017010; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+38400118; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+36300036; Jadlog; SE; MG; SAO JOAO DEL REI; Capital; 3; 12,51
+20521070; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60875535; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+95150970; Jadlog; S; RS; NOVA PETROPOLIS; Interior; 6; 41,69
+14050050; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+68928042; Jadlog; N; AP; SANTANA; Interior; 18; 61,89
+53030050; Jadlog; NE; PE; OLINDA; Capital; 7; 13,78
+99036653; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+87075790; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+5025010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+89050100; Jadlog; S; SC; BLUMENAU; Capital; 2; 12,44
+62540000; Jadlog; NE; CE; AMONTADA; Interior; 18; 47,37
+34000001; Jadlog; SE; MG; NOVA LIMA; Capital; 3; 12,51
+4026030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45816000; Jadlog; NE; BA; PORTO SEGURO; Interior; 8; 58,73
+79802030; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+21932510; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+29129665; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+71605260; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+4746115; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24350030; Jadlog; SE; RJ; NITEROI; Capital; 4; 12,51
+71100050; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+30431018; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+3311000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9190210; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+60125040; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+75025030; Jadlog; CO; GO; ANAPOLIS; Capital; 3; 13,15
+37552183; Jadlog; SE; MG; POUSO ALEGRE; Capital; 2; 12,51
+47800358; Jadlog; NE; BA; BARREIRAS; Capital; 10; 13,47
+26381357; Jadlog; SE; RJ; QUEIMADOS; Capital; 3; 12,51
+93348360; Jadlog; S; RS; NOVO HAMBURGO; Capital; 3; 12,83
+22780520; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+25650061; Jadlog; SE; RJ; PETROPOLIS; Capital; 3; 12,51
+41815320; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+8441360; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+11045301; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+4004070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+36680000; Jadlog; SE; MG; SAO JOAO NEPOMUCENO; Capital; 3; 12,51
+18608393; Jadlog; SE; SP; BOTUCATU; Capital; 2; 12,51
+6093060; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+70845010; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+27258060; Jadlog; SE; RJ; VOLTA REDONDA; Capital; 3; 12,51
+71525010; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+62400000; Jadlog; NE; CE; CAMOCIM; Interior; 19; 47,37
+32073190; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+4102010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22241150; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+90540030; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+68440000; Jadlog; N; PA; ABAETETUBA; Interior; 14; 71,47
+37480000; Jadlog; SE; MG; LAMBARI; Interior; 4; 41,37
+3325070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29800000; Jadlog; SE; ES; BARRA DE SAO FRANCISCO; Interior; 7; 42,01
+68644000; Jadlog; N; PA; SANTA LUZIA DO PARA; Interior; 8; 71,47
+13478540; Jadlog; SE; SP; AMERICANA; Capital; 2; 12,51
+90220130; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+53421440; Jadlog; NE; PE; PAULISTA; Capital; 7; 13,78
+91130160; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+55636000; Jadlog; NE; PE; CHA GRANDE; Interior; 15; 46,75
+5006000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+27700000; Jadlog; SE; RJ; VASSOURAS; Interior; 4; 41,37
+5684010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3059050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3557000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+79002321; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+72862323; Jadlog; CO; GO; NOVO GAMA; Interior; 4; 46,35
+96425250; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+5017020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90520020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+39620000; Jadlog; SE; MG; MEDINA; Interior; 5; 41,37
+22041012; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60115220; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+60040480; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+21380240; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+6900000; Jadlog; SE; SP; EMBUGUACU; Interior; 4; 41,37
+22221240; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+80050152; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+19880000; Jadlog; SE; SP; CANDIDO MOTA; Interior; 4; 41,37
+97950000; Jadlog; S; RS; GUARANI DAS MISSOES; Interior; 4; 41,69
+85807240; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+30130170; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+87900000; Jadlog; S; PR; LOANDA; Interior; 4; 41,37
+13481514; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+18081020; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+14094164; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+70630224; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+91920001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+24020000; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+65930000; Jadlog; NE; MA; ACAILANDIA; Interior; 10; 43,75
+37701528; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+88047430; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+3479000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70875010; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+1242000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69058120; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+22245040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5586060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3084030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70673311; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+32675436; Jadlog; SE; MG; BETIM; Capital; 3; 12,51
+96020045; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+6013030; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+87501160; Jadlog; S; PR; UMUARAMA; Capital; 3; 12,51
+1409000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+89255600; Jadlog; S; SC; JARAGUA DO SUL; Capital; 2; 12,44
+16203029; Jadlog; SE; SP; BIRIGUI; Capital; 2; 12,51
+13844400; Jadlog; SE; SP; MOGI GUACU; Capital; 3; 12,51
+65075692; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+60810165; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+1123001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14021677; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+35534000; Jadlog; SE; MG; CARMOPOLIS DE MINAS; Interior; 4; 41,37
+6422120; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+25530670; Jadlog; SE; RJ; SAO JOAO DE MERITI; Capital; 3; 12,51
+90480200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+21341460; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5735030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95020450; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+75640000; Jadlog; CO; GO; PIRACANJUBA; Interior; 6; 46,35
+4937200; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+35164033; Jadlog; SE; MG; IPATINGA; Capital; 3; 12,51
+33115430; Jadlog; SE; MG; SANTA LUZIA; Capital; 3; 12,51
+70757070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+4111000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+85170000; Jadlog; S; PR; PINHAO; Interior; 6; 41,37
+4030000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4458150; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+30310020; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+80040280; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1415000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+66670440; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+17017336; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+4645100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+86010628; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+1427002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+20510060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+87020230; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+78075510; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+46740000; Jadlog; NE; BA; BONINAL; Interior; 9; 58,73
+21715000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+13218320; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+53431470; Jadlog; NE; PE; PAULISTA; Capital; 7; 13,78
+74063020; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+5727230; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14401298; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+80520070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1503010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22411000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+84050230; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+83407060; Jadlog; S; PR; COLOMBO; Capital; 4; 12,51
+38610000; Jadlog; SE; MG; UNAI; Interior; 7; 41,37
+17012060; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+90440170; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+21041170; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+30310070; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+12060400; Jadlog; SE; SP; TAUBATE; Capital; 2; 12,51
+48400000; Jadlog; NE; BA; RIBEIRA DO POMBAL; Interior; 12; 58,73
+40050001; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+45605450; Jadlog; NE; BA; ITABUNA; Capital; 8; 13,47
+1332010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13013160; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+18070631; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+4560001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96400006; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+58755000; Jadlog; NE; PB; PRINCESA ISABEL; Interior; 14; 47,3
+66085823; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+91750200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+81520550; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1155040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+28950000; Jadlog; SE; RJ; ARMACAO DOS BUZIOS; Interior; 5; 41,37
+28026080; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+96010770; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+97015121; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+80540080; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+3185010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+94170000; Jadlog; S; RS; GRAVATAI; Capital; 3; 12,83
+22451040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+69919182; Jadlog; N; AC; RIO BRANCO; Capital; 15; 14,31
+85420000; Jadlog; S; PR; CORBELIA; Interior; 6; 41,37
+23914410; Jadlog; SE; RJ; ANGRA DOS REIS; Capital; 3; 12,51
+36037010; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+22260100; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+70390135; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+30190111; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+87020110; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+17700000; Jadlog; SE; SP; OSVALDO CRUZ; Capital; 3; 12,51
+11020170; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+31275050; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+30662470; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+81550320; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+85805290; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+80540180; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+3227090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5021010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+87309123; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+66023730; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+8501050; Jadlog; SE; SP; FERRAZ DE VASCONCELOS; Interior; 3; 41,37
+97501710; Jadlog; S; RS; URUGUAIANA; Capital; 4; 12,83
+62770000; Jadlog; NE; CE; PACOTI; Interior; 12; 47,37
+87300020; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+30130090; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+90460110; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88037060; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+70740704; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+89221020; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+20230040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+93042082; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+4120080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24230220; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+7175220; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+11045200; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+29102902; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+1322000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29043014; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+4913050; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+96400201; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+87502080; Jadlog; S; PR; UMUARAMA; Capital; 3; 12,51
+1424001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5008001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74890690; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+1420000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+72445010; Jadlog; CO; DF; BRASILIA; Interior; 5; 46,35
+5541000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98670000; Jadlog; S; RS; HUMAITA; Interior; 6; 41,69
+12245530; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+52061015; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+58255000; Jadlog; NE; PB; BELEM; Interior; 9; 47,3
+58307150; Jadlog; NE; PB; BAYEUX; Capital; 10; 14,1
+13900900; Jadlog; SE; SP; AMPARO; Capital; 2; 12,51
+60416104; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+13015301; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+20560001; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+11055130; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+7852090; Jadlog; SE; SP; FRANCO DA ROCHA; Interior; 3; 41,37
+70293100; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+2281140; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+4562000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9090720; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+57302070; Jadlog; NE; AL; ARAPIRACA; Capital; 9; 13,47
+78043311; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+55430000; Jadlog; NE; PE; ANGELIM; Interior; 12; 46,75
+13569430; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+1446020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+64062901; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+85010180; Jadlog; S; PR; GUARAPUAVA; Capital; 3; 12,51
+30170909; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+11035190; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+60410340; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+4507011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4531020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80530330; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+5409011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58038320; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+71530030; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+86058100; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+87300400; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+60331240; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+47850000; Jadlog; NE; BA; LUIS EDUARDO MAGALHAES; Interior; 11; 58,73
+62560000; Jadlog; NE; CE; MARCO; Interior; 18; 47,37
+37514000; Jadlog; SE; MG; DELFIM MOREIRA; Interior; 4; 41,37
+5416002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71060908; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+5427020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5372110; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11630000; Jadlog; SE; SP; ILHABELA; Interior; 5; 41,37
+29060235; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+66093532; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+14098558; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+80620000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+27936190; Jadlog; SE; RJ; MACAE; Capital; 3; 12,51
+88064000; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+4535110; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22260050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22620172; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+69935000; Jadlog; N; AC; ASSIS BRASIL; Interior; 21; 62,18
+74680160; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+20725232; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60165070; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+69550045; Jadlog; N; AM; TEFE; Interior; 31; 71,71
+3934020; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+13025063; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+29600000; Jadlog; SE; ES; AFONSO CLAUDIO; Interior; 7; 42,01
+5021010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+81230380; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+55608431; Jadlog; NE; PE; VITORIA DE SANTO ANTAO; Interior; 15; 46,75
+90130001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22061010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+95590000; Jadlog; S; RS; TRAMANDAI; Interior; 4; 41,69
+13024420; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+1232001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29060030; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+40301110; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+20560050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22631005; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13872730; Jadlog; SE; SP; SAO JOAO DA BOA VISTA; Capital; 3; 12,51
+89203402; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+93610250; Jadlog; S; RS; ESTANCIA VELHA; Capital; 3; 12,83
+76920000; Jadlog; N; RO; OURO PRETO DO OESTE; Interior; 20; 64,89
+22020060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22765005; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13562190; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+13972343; Jadlog; SE; SP; ITAPIRA; Capital; 2; 12,51
+57043000; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+88063400; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+79904416; Jadlog; CO; MS; PONTA PORA; Interior; 10; 46,75
+4215020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+36572224; Jadlog; SE; MG; VICOSA; Capital; 3; 12,51
+88134680; Jadlog; S; SC; PALHOCA; Capital; 2; 12,44
+52041015; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+72318020; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+59151590; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+21940013; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60760815; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+86140000; Jadlog; S; PR; PRIMEIRO DE MAIO; Interior; 4; 41,37
+22735000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+44059370; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+60125120; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+20240193; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+71520235; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+85884000; Jadlog; S; PR; MEDIANEIRA; Interior; 7; 41,37
+85884000; Jadlog; S; PR; MEDIANEIRA; Interior; 7; 41,37
+22250145; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+37200000; Jadlog; SE; MG; LAVRAS; Capital; 3; 12,51
+6704762; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+13260970; Jadlog; SE; SP; MORUNGABA; Interior; 4; 41,37
+39402572; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+59067500; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+3342000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74053010; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+21351050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+73770000; Jadlog; CO; GO; ALTO PARAISO DE GOIAS; Interior; 6; 46,35
+70345060; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+12509760; Jadlog; SE; SP; GUARATINGUETA; Capital; 2; 12,51
+9560560; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+48700000; Jadlog; NE; BA; SERRINHA; Interior; 9; 58,73
+13030420; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+20540004; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4550000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11330050; Jadlog; SE; SP; SAO VICENTE; Capital; 3; 12,51
+29101330; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+80060205; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+28910250; Jadlog; SE; RJ; CABO FRIO; Capital; 3; 12,51
+6447020; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+13287064; Jadlog; SE; SP; VINHEDO; Capital; 2; 12,51
+88803210; Jadlog; S; SC; CRICIUMA; Capital; 3; 12,44
+2084070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78048150; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+30431083; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+99714358; Jadlog; S; RS; ERECHIM; Capital; 3; 12,83
+70236070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+17524180; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+20250450; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+20540114; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+74810030; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+80045190; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+13050510; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+91520540; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+5008020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+41250579; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+20521160; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+38500000; Jadlog; SE; MG; MONTE CARMELO; Interior; 4; 41,37
+91900580; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+93520280; Jadlog; S; RS; NOVO HAMBURGO; Capital; 3; 12,83
+87020230; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+5014000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+49032490; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+80010010; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+8717720; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+26215200; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+2461000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4120040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+17501010; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+9861090; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+74683330; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+69020040; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+39205000; Jadlog; SE; MG; TRES MARIAS; Interior; 5; 41,37
+26120320; Jadlog; SE; RJ; BELFORD ROXO; Capital; 3; 12,51
+13049489; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+15803215; Jadlog; SE; SP; CATANDUVA; Capital; 3; 12,51
+4081010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13211377; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+7847160; Jadlog; SE; SP; FRANCO DA ROCHA; Interior; 3; 41,37
+13033740; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+20241320; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+66093180; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+1403002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4513080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+85856360; Jadlog; S; PR; FOZ DO IGUACU; Capital; 3; 12,51
+36052570; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+90410001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+36500009; Jadlog; SE; MG; UBA; Capital; 3; 12,51
+65066190; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+4702000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98300000; Jadlog; S; RS; PALMEIRA DAS MISSOES; Interior; 6; 41,69
+24110002; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+24440710; Jadlog; SE; RJ; SAO GONCALO; Capital; 4; 12,51
+57035190; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+30180090; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+88102450; Jadlog; S; SC; SAO JOSE; Capital; 2; 12,44
+5303000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59020510; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+79052420; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+22230061; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+3355000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29143246; Jadlog; SE; ES; CARIACICA; Capital; 3; 13,15
+30220410; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+98400000; Jadlog; S; RS; FREDERICO WESTPHALEN; Interior; 6; 41,69
+32185160; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+5409010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22231130; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+2554000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9360160; Jadlog; SE; SP; MAUA; Capital; 2; 12,51
+75650000; Jadlog; CO; GO; MORRINHOS; Interior; 3; 46,35
+87020035; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+68035270; Jadlog; N; PA; SANTAREM; Capital; 15; 13,55
+17690000; Jadlog; SE; SP; BASTOS; Capital; 3; 12,51
+22210030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85012270; Jadlog; S; PR; GUARAPUAVA; Capital; 3; 12,51
+1244020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90690400; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+77823110; Jadlog; N; TO; ARAGUAINA; Capital; 6; 13,55
+4140000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+50740040; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+1220010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+82400070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+26554110; Jadlog; SE; RJ; MESQUITA; Capital; 3; 12,51
+29102903; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+93020650; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+5438000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59500000; Jadlog; NE; RN; MACAU; Interior; 16; 44,3
+96211030; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+3280050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+32341070; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+13280198; Jadlog; SE; SP; VINHEDO; Capital; 2; 12,51
+95901150; Jadlog; S; RS; LAJEADO; Capital; 3; 12,83
+4675100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96020480; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+3405040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+40394050; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+5508090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1311300; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58010270; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+60410302; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+24130220; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+4632040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1453010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9580670; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+39800370; Jadlog; SE; MG; TEOFILO OTONI; Capital; 3; 12,51
+90540040; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+74351011; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+13220005; Jadlog; SE; SP; VARZEA PAULISTA; Capital; 3; 12,51
+22790350; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22210030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+41502135; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+82630600; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+85601010; Jadlog; S; PR; FRANCISCO BELTRAO; Capital; 3; 12,51
+40296250; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+15807304; Jadlog; SE; SP; CATANDUVA; Capital; 3; 12,51
+7091000; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+60170241; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+8090554; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+89610000; Jadlog; S; SC; HERVAL DOESTE; Capital; 4; 12,44
+91720330; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+2435030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11055001; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+78055458; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+17290000; Jadlog; SE; SP; MACATUBA; Interior; 3; 41,37
+41915430; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+86702666; Jadlog; S; PR; ARAPONGAS; Capital; 2; 12,51
+75906370; Jadlog; CO; GO; RIO VERDE; Capital; 5; 13,15
+66063000; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+58700070; Jadlog; NE; PB; PATOS; Capital; 9; 14,1
+92310270; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+93010090; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+51011000; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+72150617; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+74367635; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+55540000; Jadlog; NE; PE; PALMARES; Interior; 13; 46,75
+63010215; Jadlog; NE; CE; JUAZEIRO DO NORTE; Capital; 10; 14,42
+24120192; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+91340480; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+14021686; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+81925070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+45028610; Jadlog; NE; BA; VITORIA DA CONQUISTA; Capital; 8; 13,47
+5007002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90540041; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+67020250; Jadlog; N; PA; ANANINDEUA; Capital; 7; 13,55
+80040352; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+2179020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+50761030; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+81020235; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+20210030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+70772030; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+79032340; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+1244000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90035070; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88040600; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+76824210; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+90010080; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+12919450; Jadlog; SE; SP; BRAGANCA PAULISTA; Capital; 2; 12,51
+79092011; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+80010050; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+25575110; Jadlog; SE; RJ; SAO JOAO DE MERITI; Capital; 3; 12,51
+52021180; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+13070159; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+80730180; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+30493180; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+60355050; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+13911472; Jadlog; SE; SP; MONTE ALEGRE DO SUL; Interior; 3; 41,37
+84050090; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+90130061; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+3085030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11088280; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+30350410; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+57020091; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+2452002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+41760110; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+17017010; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+38400118; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+36300036; Jadlog; SE; MG; SAO JOAO DEL REI; Capital; 3; 12,51
+20521070; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60875535; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+95150970; Jadlog; S; RS; NOVA PETROPOLIS; Interior; 6; 41,69
+14050050; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+68928042; Jadlog; N; AP; SANTANA; Interior; 18; 61,89
+53030050; Jadlog; NE; PE; OLINDA; Capital; 7; 13,78
+99036653; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+87075790; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+5025010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+89050100; Jadlog; S; SC; BLUMENAU; Capital; 2; 12,44
+62540000; Jadlog; NE; CE; AMONTADA; Interior; 18; 47,37
+34000001; Jadlog; SE; MG; NOVA LIMA; Capital; 3; 12,51
+4026030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45816000; Jadlog; NE; BA; PORTO SEGURO; Interior; 8; 58,73
+79802030; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+21932510; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+29129665; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+71605260; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+4746115; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24350030; Jadlog; SE; RJ; NITEROI; Capital; 4; 12,51
+71100050; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+30431018; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+3311000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9190210; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+60125040; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+75025030; Jadlog; CO; GO; ANAPOLIS; Capital; 3; 13,15
+37552183; Jadlog; SE; MG; POUSO ALEGRE; Capital; 2; 12,51
+47800358; Jadlog; NE; BA; BARREIRAS; Capital; 10; 13,47
+26381357; Jadlog; SE; RJ; QUEIMADOS; Capital; 3; 12,51
+93348360; Jadlog; S; RS; NOVO HAMBURGO; Capital; 3; 12,83
+22780520; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+25650061; Jadlog; SE; RJ; PETROPOLIS; Capital; 3; 12,51
+41815320; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+8441360; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+11045301; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+4004070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+36680000; Jadlog; SE; MG; SAO JOAO NEPOMUCENO; Capital; 3; 12,51
+18608393; Jadlog; SE; SP; BOTUCATU; Capital; 2; 12,51
+6093060; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+70845010; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+27258060; Jadlog; SE; RJ; VOLTA REDONDA; Capital; 3; 12,51
+71525010; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+62400000; Jadlog; NE; CE; CAMOCIM; Interior; 19; 47,37
+32073190; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+4102010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22241150; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+90540030; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+68440000; Jadlog; N; PA; ABAETETUBA; Interior; 14; 71,47
+37480000; Jadlog; SE; MG; LAMBARI; Interior; 4; 41,37
+3325070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29800000; Jadlog; SE; ES; BARRA DE SAO FRANCISCO; Interior; 7; 42,01
+68644000; Jadlog; N; PA; SANTA LUZIA DO PARA; Interior; 8; 71,47
+13478540; Jadlog; SE; SP; AMERICANA; Capital; 2; 12,51
+90220130; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+53421440; Jadlog; NE; PE; PAULISTA; Capital; 7; 13,78
+91130160; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+55636000; Jadlog; NE; PE; CHA GRANDE; Interior; 15; 46,75
+5006000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+27700000; Jadlog; SE; RJ; VASSOURAS; Interior; 4; 41,37
+5684010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3059050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3557000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+79002321; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+72862323; Jadlog; CO; GO; NOVO GAMA; Interior; 4; 46,35
+96425250; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+5017020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90520020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+39620000; Jadlog; SE; MG; MEDINA; Interior; 5; 41,37
+22041012; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60115220; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+60040480; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+21380240; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+6900000; Jadlog; SE; SP; EMBUGUACU; Interior; 4; 41,37
+22221240; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+80050152; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+19880000; Jadlog; SE; SP; CANDIDO MOTA; Interior; 4; 41,37
+97950000; Jadlog; S; RS; GUARANI DAS MISSOES; Interior; 4; 41,69
+85807240; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+30130170; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+87900000; Jadlog; S; PR; LOANDA; Interior; 4; 41,37
+13481514; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+18081020; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+14094164; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+70630224; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+91920001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+24020000; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+65930000; Jadlog; NE; MA; ACAILANDIA; Interior; 10; 43,75
+37701528; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+88047430; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+3479000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70875010; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+1242000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69058120; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+22245040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5586060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3084030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70673311; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+32675436; Jadlog; SE; MG; BETIM; Capital; 3; 12,51
+96020045; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+6013030; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+87501160; Jadlog; S; PR; UMUARAMA; Capital; 3; 12,51
+1409000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+89255600; Jadlog; S; SC; JARAGUA DO SUL; Capital; 2; 12,44
+16203029; Jadlog; SE; SP; BIRIGUI; Capital; 2; 12,51
+13844400; Jadlog; SE; SP; MOGI GUACU; Capital; 3; 12,51
+65075692; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+60810165; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+1123001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14021677; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+35534000; Jadlog; SE; MG; CARMOPOLIS DE MINAS; Interior; 4; 41,37
+6422120; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+25530670; Jadlog; SE; RJ; SAO JOAO DE MERITI; Capital; 3; 12,51
+90480200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+21341460; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5735030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95020450; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+75640000; Jadlog; CO; GO; PIRACANJUBA; Interior; 6; 46,35
+4937200; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+35164033; Jadlog; SE; MG; IPATINGA; Capital; 3; 12,51
+33115430; Jadlog; SE; MG; SANTA LUZIA; Capital; 3; 12,51
+70757070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+4111000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+85170000; Jadlog; S; PR; PINHAO; Interior; 6; 41,37
+4030000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4458150; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+30310020; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+80040280; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1415000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+66670440; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+17017336; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+4645100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+86010628; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+1427002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+20510060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+87020230; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+78075510; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+46740000; Jadlog; NE; BA; BONINAL; Interior; 9; 58,73
+21715000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+13218320; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+53431470; Jadlog; NE; PE; PAULISTA; Capital; 7; 13,78
+74063020; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+5727230; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14401298; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+80520070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1503010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22411000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+84050230; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+83407060; Jadlog; S; PR; COLOMBO; Capital; 4; 12,51
+38610000; Jadlog; SE; MG; UNAI; Interior; 7; 41,37
+17012060; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+90440170; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+21041170; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+30310070; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+12060400; Jadlog; SE; SP; TAUBATE; Capital; 2; 12,51
+48400000; Jadlog; NE; BA; RIBEIRA DO POMBAL; Interior; 12; 58,73
+40050001; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+45605450; Jadlog; NE; BA; ITABUNA; Capital; 8; 13,47
+1332010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13013160; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+18070631; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+4560001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96400006; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+58755000; Jadlog; NE; PB; PRINCESA ISABEL; Interior; 14; 47,3
+66085823; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+91750200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+81520550; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1155040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+28950000; Jadlog; SE; RJ; ARMACAO DOS BUZIOS; Interior; 5; 41,37
+28026080; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+96010770; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+97015121; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+80540080; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+3185010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+94170000; Jadlog; S; RS; GRAVATAI; Capital; 3; 12,83
+22451040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+69919182; Jadlog; N; AC; RIO BRANCO; Capital; 15; 14,31
+85420000; Jadlog; S; PR; CORBELIA; Interior; 6; 41,37
+23914410; Jadlog; SE; RJ; ANGRA DOS REIS; Capital; 3; 12,51
+36037010; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+22260100; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+70390135; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+30190111; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+87020110; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+17700000; Jadlog; SE; SP; OSVALDO CRUZ; Capital; 3; 12,51
+11020170; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+31275050; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+30662470; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+81550320; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+85805290; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+80540180; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+3227090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5021010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+87309123; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+66023730; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+8501050; Jadlog; SE; SP; FERRAZ DE VASCONCELOS; Interior; 3; 41,37
+97501710; Jadlog; S; RS; URUGUAIANA; Capital; 4; 12,83
+62770000; Jadlog; NE; CE; PACOTI; Interior; 12; 47,37
+87300020; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+30130090; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+90460110; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88037060; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+70740704; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+89221020; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+20230040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+93042082; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+4120080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24230220; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+7175220; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+11045200; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+29102902; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+1322000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29043014; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+4913050; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+96400201; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+87502080; Jadlog; S; PR; UMUARAMA; Capital; 3; 12,51
+1424001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5008001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74890690; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+1420000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+72445010; Jadlog; CO; DF; BRASILIA; Interior; 5; 46,35
+5541000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98670000; Jadlog; S; RS; HUMAITA; Interior; 6; 41,69
+12245530; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+52061015; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+58255000; Jadlog; NE; PB; BELEM; Interior; 9; 47,3
+58307150; Jadlog; NE; PB; BAYEUX; Capital; 10; 14,1
+13900900; Jadlog; SE; SP; AMPARO; Capital; 2; 12,51
+60416104; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+13015301; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+20560001; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+11055130; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+7852090; Jadlog; SE; SP; FRANCO DA ROCHA; Interior; 3; 41,37
+70293100; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+2281140; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+4562000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9090720; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+57302070; Jadlog; NE; AL; ARAPIRACA; Capital; 9; 13,47
+78043311; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+55430000; Jadlog; NE; PE; ANGELIM; Interior; 12; 46,75
+13569430; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+1446020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+64062901; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+85010180; Jadlog; S; PR; GUARAPUAVA; Capital; 3; 12,51
+30170909; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+11035190; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+60410340; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+4507011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4531020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80530330; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+5409011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58038320; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+71530030; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+86058100; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+87300400; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+60331240; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+47850000; Jadlog; NE; BA; LUIS EDUARDO MAGALHAES; Interior; 11; 58,73
+62560000; Jadlog; NE; CE; MARCO; Interior; 18; 47,37
+37514000; Jadlog; SE; MG; DELFIM MOREIRA; Interior; 4; 41,37
+5416002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71060908; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+5427020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5372110; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11630000; Jadlog; SE; SP; ILHABELA; Interior; 5; 41,37
+29060235; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+66093532; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+14098558; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+80620000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+27936190; Jadlog; SE; RJ; MACAE; Capital; 3; 12,51
+88064000; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+4535110; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22260050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22620172; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+69935000; Jadlog; N; AC; ASSIS BRASIL; Interior; 21; 62,18
+74680160; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+20725232; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60165070; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+69550045; Jadlog; N; AM; TEFE; Interior; 31; 71,71
+3934020; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+13025063; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+29600000; Jadlog; SE; ES; AFONSO CLAUDIO; Interior; 7; 42,01
+5021010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+81230380; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+55608431; Jadlog; NE; PE; VITORIA DE SANTO ANTAO; Interior; 15; 46,75
+90130001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22061010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+95590000; Jadlog; S; RS; TRAMANDAI; Interior; 4; 41,69
+13024420; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+1232001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29060030; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+40301110; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+20560050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22631005; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13872730; Jadlog; SE; SP; SAO JOAO DA BOA VISTA; Capital; 3; 12,51
+89203402; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+93610250; Jadlog; S; RS; ESTANCIA VELHA; Capital; 3; 12,83
+76920000; Jadlog; N; RO; OURO PRETO DO OESTE; Interior; 20; 64,89
+22020060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22765005; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13562190; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+13972343; Jadlog; SE; SP; ITAPIRA; Capital; 2; 12,51
+57043000; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+88063400; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+79904416; Jadlog; CO; MS; PONTA PORA; Interior; 10; 46,75
+4215020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+36572224; Jadlog; SE; MG; VICOSA; Capital; 3; 12,51
+88134680; Jadlog; S; SC; PALHOCA; Capital; 2; 12,44
+52041015; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+72318020; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+59151590; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+21940013; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60760815; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+86140000; Jadlog; S; PR; PRIMEIRO DE MAIO; Interior; 4; 41,37
+22735000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+44059370; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+60125120; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+20240193; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+71520235; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+85884000; Jadlog; S; PR; MEDIANEIRA; Interior; 7; 41,37
+85884000; Jadlog; S; PR; MEDIANEIRA; Interior; 7; 41,37
+22250145; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+37200000; Jadlog; SE; MG; LAVRAS; Capital; 3; 12,51
+6704762; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+13260970; Jadlog; SE; SP; MORUNGABA; Interior; 4; 41,37
+39402572; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+59067500; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+3342000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74053010; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+21351050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+73770000; Jadlog; CO; GO; ALTO PARAISO DE GOIAS; Interior; 6; 46,35
+70345060; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+12509760; Jadlog; SE; SP; GUARATINGUETA; Capital; 2; 12,51
+9560560; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+48700000; Jadlog; NE; BA; SERRINHA; Interior; 9; 58,73
+13030420; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+20540004; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4550000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11330050; Jadlog; SE; SP; SAO VICENTE; Capital; 3; 12,51
+29101330; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+80060205; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+28910250; Jadlog; SE; RJ; CABO FRIO; Capital; 3; 12,51
+6447020; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+13287064; Jadlog; SE; SP; VINHEDO; Capital; 2; 12,51
+88803210; Jadlog; S; SC; CRICIUMA; Capital; 3; 12,44
+2084070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78048150; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+30431083; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+99714358; Jadlog; S; RS; ERECHIM; Capital; 3; 12,83
+70236070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+17524180; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+20250450; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+20540114; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+74810030; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+80045190; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+13050510; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+91520540; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+5008020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+41250579; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+20521160; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+83042450; Jadlog; S; PR; SAO JOSE DOS PINHAIS; Capital; 2; 12,51
+70879080; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+48110000; Jadlog; NE; BA; CATU; Interior; 9; 58,73
+64001320; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+12245000; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+83252000
+2075060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69314412; Jadlog; N; RR; BOA VISTA; Capital; 23; 37,71
+29060730; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+1258011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+23906175; Jadlog; SE; RJ; ANGRA DOS REIS; Capital; 3; 12,51
+21340260; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85790000; Jadlog; S; PR; CAPITAO LEONIDAS MARQUES; Interior; 7; 41,37
+20910061; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+88330323; Jadlog; S; SC; BALNEARIO CAMBORIU; Capital; 2; 12,44
+13092340; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+68507280; Jadlog; N; PA; MARABA; Capital; 5; 13,55
+37553459; Jadlog; SE; MG; POUSO ALEGRE; Capital; 2; 12,51
+38400232; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+13478540; Jadlog; SE; SP; AMERICANA; Capital; 2; 12,51
+8717885; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+36016420; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+90870000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+90450010; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+1508000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45600011; Jadlog; NE; BA; ITABUNA; Capital; 8; 13,47
+30270170; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+60331740; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+76310000; Jadlog; CO; GO; RIALMA; Interior; 5; 46,35
+74070060; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+99320000; Jadlog; S; RS; IBIRAPUITA; Interior; 6; 41,69
+80060205; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+90620010; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+1323001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69074761; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+90035120; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+98925000; Jadlog; S; RS; DOUTOR MAURICIO CARDOSO; Interior; 5; 41,69
+30130174; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+54100660; Jadlog; NE; PE; JABOATAO DOS GUARARAPES; Capital; 9; 13,78
+57052565; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+98600000; Jadlog; S; RS; TRES PASSOS; Interior; 6; 41,69
+4026000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+82030430; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+69044776; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+22221090; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+31110590; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+44076050; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+95010003; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+7120200; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+70390145; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+60020300; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+20720230; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+27600000; Jadlog; SE; RJ; VALENCA; Interior; 4; 41,37
+13860000; Jadlog; SE; SP; AGUAI; Interior; 4; 41,37
+5585040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+93010040; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+8215670; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+4823080; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+95520000; Jadlog; S; RS; OSORIO; Capital; 3; 12,83
+37480000; Jadlog; SE; MG; LAMBARI; Interior; 4; 41,37
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+1532001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+42740505; Jadlog; NE; BA; LAURO DE FREITAS; Capital; 8; 13,47
+75830084; Jadlog; CO; GO; MINEIROS; Interior; 5; 46,35
+80540220; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+70686710; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+30662290; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+20241180; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+8771910; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+17012058; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+71215100; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+20270050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+41370110; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+97543070; Jadlog; S; RS; ALEGRETE; Interior; 5; 41,69
+74685080; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+88802400; Jadlog; S; SC; CRICIUMA; Capital; 3; 12,44
+17017336; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+36016450; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+74843170; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+56306060; Jadlog; NE; PE; PETROLINA; Capital; 7; 13,78
+96200180; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+93042410; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+91420490; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22030040; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+35420000; Jadlog; SE; MG; MARIANA; Capital; 3; 12,51
+29052360; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+9895130; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+81750400; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+97543650; Jadlog; S; RS; ALEGRETE; Interior; 5; 41,69
+97105160; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+30130141; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+37795000; Jadlog; SE; MG; ANDRADAS; Interior; 4; 41,37
+89051000; Jadlog; S; SC; BLUMENAU; Capital; 2; 12,44
+7082600; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+78045008; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+97576460; Jadlog; S; RS; SANTANA DO LIVRAMENTO; Interior; 7; 41,69
+81110522; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+86020111; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+38840000; Jadlog; SE; MG; CARMO DO PARANAIBA; Interior; 4; 41,37
+28460000; Jadlog; SE; RJ; MIRACEMA; Capital; 4; 12,51
+28625010; Jadlog; SE; RJ; NOVA FRIBURGO; Capital; 3; 12,51
+60175045; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+23573300; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+49020010; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+96825345; Jadlog; S; RS; SANTA CRUZ DO SUL; Capital; 3; 12,83
+1306010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70397900; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+14050475; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+4046000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1224011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+21021422; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85853240; Jadlog; S; PR; FOZ DO IGUACU; Capital; 3; 12,51
+18147000; Jadlog; SE; SP; ARACARIGUAMA; Capital; 4; 12,51
+20240200; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+64770000; Jadlog; NE; PI; SAO RAIMUNDO NONATO; Interior; 20; 46,75
+14890220; Jadlog; SE; SP; JABOTICABAL; Capital; 2; 12,51
+5868750; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+85806080; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+60150190; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+60744470; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+9540080; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+35500015; Jadlog; SE; MG; DIVINOPOLIS; Capital; 3; 12,51
+9691250; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+18690000; Jadlog; SE; SP; ITATINGA; Interior; 3; 41,37
+29101291; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+20720230; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+51030280; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+82990070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1240020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+31310190; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+5047001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+6030016; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+58410713; Jadlog; NE; PB; CAMPINA GRANDE; Capital; 9; 14,1
+15081180; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+30160031; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+28920140; Jadlog; SE; RJ; CABO FRIO; Capital; 3; 12,51
+96570000; Jadlog; S; RS; CACAPAVA DO SUL; Interior; 4; 41,69
+22230001; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+64052850; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+52050387; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+88306250; Jadlog; S; SC; ITAJAI; Capital; 2; 12,44
+84072050; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+78098360; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+51021500; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+59380000; Jadlog; NE; RN; CURRAIS NOVOS; Interior; 16; 44,3
+30620330; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+80035030; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+59069025; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+13301350; Jadlog; SE; SP; ITU; Capital; 2; 12,51
+90430131; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+1419101; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+72015035; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+80310160; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+5418010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+20541340; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+93260200; Jadlog; S; RS; ESTEIO; Capital; 3; 12,83
+88063300; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+30150311; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+79833010; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+70675811; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+11680000; Jadlog; SE; SP; UBATUBA; Interior; 5; 41,37
+89082296; Jadlog; S; SC; BLUMENAU; Capital; 2; 12,44
+41730101; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+13010111; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+4557050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58701020; Jadlog; NE; PB; PATOS; Capital; 9; 14,1
+35193000; Jadlog; SE; MG; BUGRE; Interior; 5; 41,37
+13035390; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+17490000; Jadlog; SE; SP; PIRATININGA; Interior; 4; 41,37
+80250070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+82630720; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+7500000; Jadlog; SE; SP; SANTA ISABEL; Interior; 4; 41,37
+79100030; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+85200000; Jadlog; S; PR; PITANGA; Interior; 5; 41,37
+62500000; Jadlog; NE; CE; ITAPIPOCA; Interior; 13; 47,37
+37701000; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+87013000; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+4762030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4248090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95080190; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+22775053; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22750006; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85890000; Jadlog; S; PR; MISSAL; Interior; 7; 41,37
+80240120; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+96080560; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+20560090; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13175660; Jadlog; SE; SP; SUMARE; Capital; 2; 12,51
+9015530; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+89222450; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+9380360; Jadlog; SE; SP; MAUA; Capital; 2; 12,51
+1303050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90470150; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+55370000; Jadlog; NE; PE; SAO BENTO DO UNA; Interior; 12; 46,75
+45654258; Jadlog; NE; BA; ILHEUS; Capital; 8; 13,47
+12216510; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+79100330; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+60525345; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+13481605; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+13345812; Jadlog; SE; SP; INDAIATUBA; Capital; 2; 12,51
+90040140; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+69900779; Jadlog; N; AC; RIO BRANCO; Capital; 15; 14,31
+39401047; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+11025100; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+30510080; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+5119025; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+2518000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74810220; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+4560010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+40170060; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+77006162; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+21331600; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+59151427; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+83206000; Jadlog; S; PR; PARANAGUA; Capital; 3; 12,51
+70299070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+98700000; Jadlog; S; RS; IJUI; Capital; 3; 12,83
+66075420; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+22010000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+18016035; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+15470000; Jadlog; SE; SP; PALESTINA; Interior; 5; 41,37
+81810350; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+22290080; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13063450; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+91330500; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+15500010; Jadlog; SE; SP; VOTUPORANGA; Capital; 2; 12,51
+60115281; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+9550050; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+30380060; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+30840500; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+36036230; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+76806180; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+41815320; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+13049322; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+29101220; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+13212070; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+81330030; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1203002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13092200; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+80520176; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+71515065; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+13575370; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+40140460; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+91530510; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+5051000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+20770130; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+34007404; Jadlog; SE; MG; NOVA LIMA; Capital; 3; 12,51
+49025100; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+92500000; Jadlog; S; RS; GUAIBA; Capital; 3; 12,83
+33400000; Jadlog; SE; MG; LAGOA SANTA; Capital; 4; 12,51
+96211110; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+90010272; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+64048360; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+24020105; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+74681450; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+14802355; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+74655370; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+35920000; Jadlog; SE; MG; NOVA ERA; Interior; 4; 41,37
+4082000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+88010120; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+60821802; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+99709290; Jadlog; S; RS; ERECHIM; Capital; 3; 12,83
+22471210; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+95320000; Jadlog; S; RS; NOVA PRATA; Capital; 4; 12,83
+29032416; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+1226030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+39404679; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+4661100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+28300000; Jadlog; SE; RJ; ITAPERUNA; Capital; 3; 12,51
+22010110; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+36525000; Jadlog; SE; MG; GUIRICEMA; Interior; 4; 41,37
+68618000; Jadlog; N; PA; NOVA ESPERANCA DO PIRIA; Interior; 16; 71,47
+81540080; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+98400000; Jadlog; S; RS; FREDERICO WESTPHALEN; Interior; 6; 41,69
+86600123; Jadlog; S; PR; ROLANDIA; Interior; 4; 41,37
+20050091
+20541140; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+24732570; Jadlog; SE; RJ; SAO GONCALO; Interior; 4; 41,37
+20241266; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+13564030; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+25900127; Jadlog; SE; RJ; MAGE; Capital; 4; 12,51
+31035400; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+99010035; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+36660000; Jadlog; SE; MG; ALEM PARAIBA; Interior; 5; 41,37
+70375030; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+17600270; Jadlog; SE; SP; TUPA; Capital; 2; 12,51
+11431111; Jadlog; SE; SP; GUARUJA; Capital; 3; 12,51
+82120070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+59380000; Jadlog; NE; RN; CURRAIS NOVOS; Interior; 16; 44,3
+60732492; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+57275000; Jadlog; NE; AL; SAO SEBASTIAO; Interior; 10; 43,67
+90560005; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+40450211; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+17400000; Jadlog; SE; SP; GARCA; Capital; 2; 12,51
+99042480; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+17290000; Jadlog; SE; SP; MACATUBA; Interior; 3; 41,37
+8505000; Jadlog; SE; SP; FERRAZ DE VASCONCELOS; Interior; 3; 41,37
+11250000; Jadlog; SE; SP; BERTIOGA; Interior; 3; 41,37
+30220080; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+90460090; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+89209497; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+4583000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70854100; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+22081042; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+17120000; Jadlog; SE; SP; AGUDOS; Interior; 4; 41,37
+60420478; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+38700052; Jadlog; SE; MG; PATOS DE MINAS; Capital; 3; 12,51
+6253080; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+69303483; Jadlog; N; RR; BOA VISTA; Capital; 23; 37,71
+58051590; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+19802080; Jadlog; SE; SP; ASSIS; Capital; 2; 12,51
+94440450; Jadlog; S; RS; VIAMAO; Capital; 3; 12,83
+4514000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+8840160; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+25720458; Jadlog; SE; RJ; PETROPOLIS; Capital; 3; 12,51
+52071640; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+95070480; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+89203570; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+88526153; Jadlog; S; SC; LAGES; Capital; 3; 12,44
+90440190; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88870000; Jadlog; S; SC; ORLEANS; Interior; 4; 31,86
+13560201; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+77620000; Jadlog; N; TO; APARECIDA DO RIO NEGRO; Interior; 10; 46,75
+58884000; Jadlog; NE; PB; CATOLE DO ROCHA; Interior; 13; 47,3
+13020061; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+37200000; Jadlog; SE; MG; LAVRAS; Capital; 3; 12,51
+30110021; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+41640590; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+32285140; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+35065107; Jadlog; SE; MG; GOVERNADOR VALADARES; Capital; 3; 12,51
+88160654; Jadlog; S; SC; BIGUACU; Capital; 2; 12,44
+22430041; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+68371017; Jadlog; N; PA; ALTAMIRA; Capital; 10; 13,55
+4530050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96810109; Jadlog; S; RS; SANTA CRUZ DO SUL; Capital; 3; 12,83
+21340461; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+76801182; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+12570000; Jadlog; SE; SP; APARECIDA; Capital; 2; 12,51
+40285001; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+21321802; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60430180; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+5777150; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+6764030; Jadlog; SE; SP; TABOAO DA SERRA; Capital; 3; 12,51
+92200410; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+24220230; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+41815120; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+1307001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+63908115; Jadlog; NE; CE; QUIXADA; Interior; 12; 47,37
+85904060; Jadlog; S; PR; TOLEDO; Capital; 3; 12,51
+8250540; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+24220301; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+99706391; Jadlog; S; RS; ERECHIM; Capital; 3; 12,83
+4833001; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+4424120; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+37503154; Jadlog; SE; MG; ITAJUBA; Capital; 2; 12,51
+14801534; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+21616120; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+13084767; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+9688040; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+34505850; Jadlog; SE; MG; SABARA; Capital; 4; 12,51
+71880010; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+71915500; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+20520050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+89261780; Jadlog; S; SC; JARAGUA DO SUL; Capital; 2; 12,44
+46810000; Jadlog; NE; BA; UTINGA; Interior; 12; 58,73
+24220401; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+94130160; Jadlog; S; RS; GRAVATAI; Capital; 3; 12,83
+78058264; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+15051120; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+76900637; Jadlog; N; RO; JIPARANA; Capital; 18; 14,31
+54517170; Jadlog; NE; PE; CABO DE SANTO AGOSTINHO; Capital; 9; 13,78
+37701528; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+98300000; Jadlog; S; RS; PALMEIRA DAS MISSOES; Interior; 6; 41,69
+72001305; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+58038242; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+60120290; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+89114266; Jadlog; S; SC; GASPAR; Capital; 3; 12,44
+78040660; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+13326130; Jadlog; SE; SP; SALTO; Capital; 2; 12,51
+69640000; Jadlog; N; AM; TABATINGA; Interior; 29; 71,71
+7151140; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+40296250; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+15775000; Jadlog; SE; SP; SANTA FE DO SUL; Interior; 6; 41,37
+28611010; Jadlog; SE; RJ; NOVA FRIBURGO; Capital; 3; 12,51
+6807150; Jadlog; SE; SP; EMBU DAS ARTES; Capital; 3; 12,51
+62320000; Jadlog; NE; CE; TIANGUA; Interior; 18; 47,37
+91350000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+68400000; Jadlog; N; PA; CAMETA; Interior; 12; 71,47
+1135020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14021617; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+93010190; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+60830025; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+3105000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4182040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78575000; Jadlog; CO; MT; JUARA; Interior; 16; 46,91
+24220120; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+24130220; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+20735180; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13085552; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+90810150; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+78005400; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+18870000; Jadlog; SE; SP; FARTURA; Interior; 5; 41,37
+96750000; Jadlog; S; RS; BUTIA; Interior; 6; 41,69
+69028331; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+69090297; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+50710432; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+60170320; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+87023481; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+6890000; Jadlog; SE; SP; SAO LOURENCO DA SERRA; Interior; 6; 41,37
+13495000; Jadlog; SE; SP; IRACEMAPOLIS; Interior; 4; 41,37
+22280020; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5586060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+83430000; Jadlog; S; PR; CAMPINA GRANDE DO SUL; Capital; 5; 12,51
+92020310; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+41820390; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+80710000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+4302000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13100211; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+41385845; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+99025060; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+8750740; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+1403000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59152820; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+25958220; Jadlog; SE; RJ; TERESOPOLIS; Capital; 4; 12,51
+46430000; Jadlog; NE; BA; GUANAMBI; Capital; 9; 13,47
+75390528; Jadlog; CO; GO; TRINDADE; Interior; 6; 46,35
+22040002; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+7600000; Jadlog; SE; SP; MAIRIPORA; Interior; 3; 41,37
+83065470; Jadlog; S; PR; SAO JOSE DOS PINHAIS; Interior; 2; 41,37
+18900000; Jadlog; SE; SP; SANTA CRUZ DO RIO PARDO; Interior; 4; 41,37
+9190640; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+8390390; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+29295000; Jadlog; SE; ES; VARGEM ALTA; Interior; 9; 42,01
+18603560; Jadlog; SE; SP; BOTUCATU; Capital; 2; 12,51
+71881159; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+37470000; Jadlog; SE; MG; SAO LOURENCO; Capital; 3; 12,51
+15061707; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+60411085; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+64057060; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+94451192; Jadlog; S; RS; VIAMAO; Capital; 3; 12,83
+62930000; Jadlog; NE; CE; LIMOEIRO DO NORTE; Interior; 13; 47,37
+89010000; Jadlog; S; SC; BLUMENAU; Capital; 2; 12,44
+2316060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+91900000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+62930000; Jadlog; NE; CE; LIMOEIRO DO NORTE; Interior; 13; 47,37
+1535000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90610001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+4006020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+82515210; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+26510110; Jadlog; SE; RJ; NILOPOLIS; Capital; 3; 12,51
+22271100; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+30840630; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+90035130; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+55030040; Jadlog; NE; PE; CARUARU; Capital; 9; 13,78
+36037000; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+38020400; Jadlog; SE; MG; UBERABA; Capital; 3; 12,51
+78255000; Jadlog; CO; MT; JAURU; Interior; 16; 46,91
+80230000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+70766060; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+22430060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+74481330; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+87708278; Jadlog; S; PR; PARANAVAI; Capital; 3; 12,51
+64079245; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+97015121; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+1322020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3587000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90035006; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+51020090; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+12223430; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+22421028; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+80240074; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+4842220; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+22260090; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+1013910; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+88010002; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+88350635; Jadlog; S; SC; BRUSQUE; Capital; 3; 12,44
+53250440; Jadlog; NE; PE; OLINDA; Capital; 7; 13,78
+6766300; Jadlog; SE; SP; TABOAO DA SERRA; Capital; 3; 12,51
+21041030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+89214030; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+48435000; Jadlog; NE; BA; ADUSTINA; Interior; 14; 58,73
+54210341; Jadlog; NE; PE; JABOATAO DOS GUARARAPES; Capital; 9; 13,78
+62800000; Jadlog; NE; CE; ARACATI; Interior; 13; 47,37
+88523060; Jadlog; S; SC; LAGES; Capital; 3; 12,44
+62150000; Jadlog; NE; CE; SANTANA DO ACARAU; Interior; 18; 47,37
+90010360; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+14025710; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+90510002; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+95720000; Jadlog; S; RS; GARIBALDI; Capital; 4; 12,83
+4857015; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+78250000; Jadlog; CO; MT; PONTES E LACERDA; Interior; 15; 46,91
+90220200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+44077780; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+95914184; Jadlog; S; RS; LAJEADO; Capital; 3; 12,83
+1410002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14110000; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+9185710; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+41810670; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+22750290; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13467353; Jadlog; SE; SP; AMERICANA; Capital; 2; 12,51
+91130210; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+79611216; Jadlog; CO; MS; TRES LAGOAS; Capital; 8; 13,55
+44245000; Jadlog; NE; BA; CONCEICAO DO JACUIPE; Interior; 8; 58,73
+70733070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+35182320; Jadlog; SE; MG; TIMOTEO; Capital; 3; 12,51
+1331020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+49200000; Jadlog; NE; SE; ESTANCIA; Interior; 14; 43,67
+3193040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95680000; Jadlog; S; RS; CANELA; Capital; 5; 12,83
+60425808; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+14085000; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+4094050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98960000; Jadlog; S; RS; SANTO CRISTO; Interior; 4; 41,69
+2042030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+17024650; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+70680389; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+9190460; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+57100000; Jadlog; NE; AL; RIO LARGO; Interior; 10; 43,67
+37190000; Jadlog; SE; MG; TRES PONTAS; Interior; 4; 41,37
+90810080; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+49095793; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+52011160; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+52041330; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+81550315; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+89560000; Jadlog; S; SC; VIDEIRA; Capital; 4; 12,44
+64050165; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+51030080; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+4362060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+91370170; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+9820680; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+75400000; Jadlog; CO; GO; INHUMAS; Interior; 6; 46,35
+44065366; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+3081040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3442000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45652180; Jadlog; NE; BA; ILHEUS; Capital; 8; 13,47
+30380103; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+71680390; Jadlog; CO; DF; BRASILIA; Capital; 5; 13,15
+26385140; Jadlog; SE; RJ; QUEIMADOS; Capital; 3; 12,51
+29092010; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+70846040; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+4254020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+52011240; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+24020109; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+98910000; Jadlog; S; RS; TRES DE MAIO; Interior; 4; 41,69
+31060470; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+17033550; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+44065730; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+90820190; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+89812453; Jadlog; S; SC; CHAPECO; Capital; 3; 12,44
+5009000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+17507251; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+30260070; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+3065000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+79070295; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+59015050; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+28895679; Jadlog; SE; RJ; RIO DAS OSTRAS; Capital; 3; 12,51
+37004220; Jadlog; SE; MG; VARGINHA; Capital; 2; 12,51
+8225310; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+54460280; Jadlog; NE; PE; JABOATAO DOS GUARARAPES; Capital; 9; 13,78
+12530000; Jadlog; SE; SP; CUNHA; Interior; 6; 41,37
+89813000; Jadlog; S; SC; CHAPECO; Capital; 3; 12,44
+5583070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30575360; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+29295000; Jadlog; SE; ES; VARGEM ALTA; Interior; 9; 42,01
+22793264; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+89802040; Jadlog; S; SC; CHAPECO; Capital; 3; 12,44
+5303000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30140060; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+8717450; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+1154050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70680538; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+57025560; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+90020025; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+20241220; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+90050101; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+90470430; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+96570000; Jadlog; S; RS; CACAPAVA DO SUL; Interior; 4; 41,69
+89107000; Jadlog; S; SC; POMERODE; Capital; 3; 12,44
+45028516; Jadlog; NE; BA; VITORIA DA CONQUISTA; Capital; 8; 13,47
+22471140; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+52070040; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+91910001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+24020070; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+23860000; Jadlog; SE; RJ; MANGARATIBA; Capital; 5; 12,51
+91530040; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+6775040; Jadlog; SE; SP; TABOAO DA SERRA; Capital; 3; 12,51
+60150190; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+58013240; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+5083140; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98600000; Jadlog; S; RS; TRES PASSOS; Interior; 6; 41,69
+6709300; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+25035160; Jadlog; SE; RJ; DUQUE DE CAXIAS; Capital; 3; 12,51
+4607003; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+38081105; Jadlog; SE; MG; UBERABA; Capital; 3; 12,51
+66080690; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+22210060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+63504630; Jadlog; NE; CE; IGUATU; Interior; 16; 47,37
+22051002; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+6900000; Jadlog; SE; SP; EMBUGUACU; Interior; 4; 41,37
+37701092; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+8022340; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+69025050; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+4658020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12942260; Jadlog; SE; SP; ATIBAIA; Capital; 2; 12,51
+30140091; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+74810220; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+98995000; Jadlog; S; RS; PORTO XAVIER; Interior; 4; 41,69
+85501051; Jadlog; S; PR; PATO BRANCO; Capital; 4; 12,51
+74943120; Jadlog; CO; GO; APARECIDA DE GOIANIA; Capital; 3; 13,15
+12608160; Jadlog; SE; SP; LORENA; Capital; 2; 12,51
+7114390; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+71010137; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+16301166; Jadlog; SE; SP; PENAPOLIS; Interior; 3; 41,37
+70746010; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+90410005; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+14095230; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+9270500; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+69057142; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+5624001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+94065350; Jadlog; S; RS; GRAVATAI; Capital; 3; 12,83
+5303000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+25807160; Jadlog; SE; RJ; TRES RIOS; Capital; 3; 12,51
+30112010; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+74933625; Jadlog; CO; GO; APARECIDA DE GOIANIA; Capital; 3; 13,15
+60410320; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+13212118; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+80730000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+44300000; Jadlog; NE; BA; CACHOEIRA; Interior; 7; 58,73
+8382138; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+64255000; Jadlog; NE; PI; PEDRO II; Interior; 15; 46,75
+69094570; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+44004280; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+12919410; Jadlog; SE; SP; BRAGANCA PAULISTA; Capital; 2; 12,51
+22270070; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4369000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+15020030; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+73840000; Jadlog; CO; GO; CAMPOS BELOS; Interior; 5; 46,35
+58100592; Jadlog; NE; PB; CABEDELO; Capital; 8; 14,1
+4638000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+88132150; Jadlog; S; SC; PALHOCA; Capital; 2; 12,44
+37810000; Jadlog; SE; MG; GUARANESIA; Interior; 6; 41,37
+66645870; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+44078070; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+76982296; Jadlog; N; RO; VILHENA; Capital; 18; 14,31
+89700258; Jadlog; S; SC; CONCORDIA; Capital; 3; 12,44
+36520000; Jadlog; SE; MG; VISCONDE DO RIO BRANCO; Capital; 3; 12,51
+36025007; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+69082000; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+11675000; Jadlog; SE; SP; CARAGUATATUBA; Capital; 3; 12,51
+30880480; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+79102050; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+88030650; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+12010130; Jadlog; SE; SP; TAUBATE; Capital; 2; 12,51
+3977406; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+55680000; Jadlog; NE; PE; BONITO; Interior; 15; 46,75
+28470000; Jadlog; SE; RJ; SANTO ANTONIO DE PADUA; Capital; 4; 12,51
+6110260; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+79823381; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+29065420; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+95190000; Jadlog; S; RS; SAO MARCOS; Interior; 5; 41,69
+69058411; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+69037000; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+30130004; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+80060120; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+90850000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+80430140; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+8750073; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+22221011; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+45970000; Jadlog; NE; BA; ITANHEM; Interior; 9; 58,73
+74610030; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+65077310; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+70292060; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+8010220; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+3336000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96400400; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+38706190; Jadlog; SE; MG; PATOS DE MINAS; Capital; 3; 12,51
+88020001; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+4517002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3571020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+7121273; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+4565000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13720000; Jadlog; SE; SP; SAO JOSE DO RIO PARDO; Capital; 2; 12,51
+19912270; Jadlog; SE; SP; OURINHOS; Capital; 2; 12,51
+81150070; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+52011050; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+14020380; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+71503505; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+45360000; Jadlog; NE; BA; MARACAS; Interior; 10; 58,73
+91330590; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+41815215; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+5413000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1508902; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13643206; Jadlog; SE; SP; PIRASSUNUNGA; Capital; 2; 12,51
+13900972; Jadlog; SE; SP; AMPARO; Capital; 2; 12,51
+12220690; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+22240005; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+31744093; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+70775010; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+5413000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+2860110; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+30150311; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+74938010; Jadlog; CO; GO; APARECIDA DE GOIANIA; Capital; 3; 13,15
+31749065; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+22070001; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+21931030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+97010180; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+64001280; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+4657000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+79900000
+66083340; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+3226010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+82980050; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+95960000; Jadlog; S; RS; ENCANTADO; Capital; 5; 12,83
+21830080; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+9910170; Jadlog; SE; SP; DIADEMA; Capital; 2; 12,51
+38402028; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+78850000; Jadlog; CO; MT; PRIMAVERA DO LESTE; Interior; 14; 46,91
+98500000; Jadlog; S; RS; TENENTE PORTELA; Interior; 6; 41,69
+60822395; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+22230030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+11250000; Jadlog; SE; SP; BERTIOGA; Interior; 3; 41,37
+37200000; Jadlog; SE; MG; LAVRAS; Capital; 3; 12,51
+22231090; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+41815270; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+96020260; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+20530050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+88075535; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+4142020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95076420; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+27345350; Jadlog; SE; RJ; BARRA MANSA; Capital; 3; 12,51
+13087508; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+71741703; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+22730521; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+66613060; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+81110050; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+4081003; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13419290; Jadlog; SE; SP; PIRACICABA; Capital; 2; 12,51
+37901013; Jadlog; SE; MG; PASSOS; Capital; 2; 12,51
+90050250; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+79009450; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+1237020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13755000; Jadlog; SE; SP; SAO BENEDITO DAS AREIAS; Interior; 4; 41,37
+30330291; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+2615020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1308000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+41600820; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+71920700; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+91310003; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+31310490; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+22795210; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+9580500; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+60455365; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+88040420; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+65074845; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+76870970; Jadlog; N; RO; ARIQUEMES; Interior; 18; 64,89
+16300027; Jadlog; SE; SP; PENAPOLIS; Interior; 3; 41,37
+22061020; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+93700000; Jadlog; S; RS; CAMPO BOM; Capital; 5; 12,83
+72115015; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+37540000; Jadlog; SE; MG; SANTA RITA DO SAPUCAI; Capital; 2; 12,51
+97045420; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+20561000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+59612209; Jadlog; NE; RN; MOSSORO; Capital; 12; 14,1
+51130300; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+28015300; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+8538300; Jadlog; SE; SP; FERRAZ DE VASCONCELOS; Interior; 3; 41,37
+88020460; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+89400000; Jadlog; S; SC; PORTO UNIAO; Capital; 2; 12,44
+7500000; Jadlog; SE; SP; SANTA ISABEL; Interior; 4; 41,37
+2267060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+41740090; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+13690000; Jadlog; SE; SP; DESCALVADO; Interior; 3; 41,37
+6705050; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+13484097; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+24240660; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+36880270; Jadlog; SE; MG; MURIAE; Capital; 3; 12,51
+4367090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22743052; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+14110000; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+5018001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+87501400; Jadlog; S; PR; UMUARAMA; Capital; 3; 12,51
+85010290; Jadlog; S; PR; GUARAPUAVA; Capital; 3; 12,51
+27945480; Jadlog; SE; RJ; MACAE; Capital; 3; 12,51
+77020074; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+4117170; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+21531300; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5083130; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70687325; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+13454065; Jadlog; SE; SP; SANTA BARBARA DOESTE; Capital; 3; 12,51
+84660000; Jadlog; S; PR; GENERAL CARNEIRO; Interior; 4; 41,37
+5223070; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+9090508; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+78455000; Jadlog; CO; MT; LUCAS DO RIO VERDE; Capital; 11; 13,71
+14680000; Jadlog; SE; SP; JARDINOPOLIS; Interior; 4; 41,37
+64604420; Jadlog; NE; PI; PICOS; Interior; 15; 46,75
+5145000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70686605; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+69085288; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+44700000; Jadlog; NE; BA; JACOBINA; Interior; 13; 58,73
+78640000; Jadlog; CO; MT; CANARANA; Interior; 17; 46,91
+4267000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22790530; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+6286070; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+2319120; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+15804270; Jadlog; SE; SP; CATANDUVA; Capital; 3; 12,51
+58036444; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+88034605; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+8246050; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+36026340; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+72025025; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+6454080; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+69053270; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+62800000; Jadlog; NE; CE; ARACATI; Interior; 13; 47,37
+4884000; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+63133460; Jadlog; NE; CE; CRATO; Capital; 11; 14,42
+87502130; Jadlog; S; PR; UMUARAMA; Capital; 3; 12,51
+69735000; Jadlog; N; AM; PRESIDENTE FIGUEIREDO; Interior; 23; 71,71
+78508000; Jadlog; CO; MT; NOVA GUARITA; Interior; 20; 46,91
+18240000; Jadlog; SE; SP; ANGATUBA; Interior; 4; 41,37
+4565000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+8245200; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+60192120; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+40301075; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+89760000; Jadlog; S; SC; ITA; Interior; 4; 31,86
+83430000; Jadlog; S; PR; CAMPINA GRANDE DO SUL; Capital; 5; 12,51
+30240000; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+86065630; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+30315540; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+41810620; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+64003800; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+17051390; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+90540031; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+4055110; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+37200000; Jadlog; SE; MG; LAVRAS; Capital; 3; 12,51
+4635051; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24445790; Jadlog; SE; RJ; SAO GONCALO; Capital; 4; 12,51
+17502270; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+85415000; Jadlog; S; PR; CAFELANDIA; Interior; 6; 41,37
+95400000; Jadlog; S; RS; SAO FRANCISCO DE PAULA; Interior; 7; 41,69
+38320000; Jadlog; SE; MG; SANTA VITORIA; Interior; 6; 41,37
+2435000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+85410000; Jadlog; S; PR; NOVA AURORA; Interior; 6; 41,37
+18550000; Jadlog; SE; SP; BOITUVA; Capital; 2; 12,51
+80530050; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+95930000; Jadlog; S; RS; CRUZEIRO DO SUL; Interior; 5; 41,69
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+38220000; Jadlog; SE; MG; PLANURA; Interior; 4; 41,37
+89235135; Jadlog; S; SC; JOINVILLE; Capital; 2; 12,44
+24210070; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+69098204; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+1312000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+91751330; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+40100170; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+39403451; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+19813377; Jadlog; SE; SP; ASSIS; Capital; 2; 12,51
+28908130; Jadlog; SE; RJ; CABO FRIO; Capital; 3; 12,51
+1311000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+89900000; Jadlog; S; SC; SAO MIGUEL DO OESTE; Interior; 5; 31,86
+7010010; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+88065033; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+90690150; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22061000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+91030320; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+12608490; Jadlog; SE; SP; LORENA; Capital; 2; 12,51
+57030170; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+8235540; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+77019878; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+49048010; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+45580000; Jadlog; NE; BA; IBIRATAIA; Interior; 15; 58,73
+70879090; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+22281036; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+35900045; Jadlog; SE; MG; ITABIRA; Capital; 3; 12,51
+9130190; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+7132110; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+78760000; Jadlog; CO; MT; GUIRATINGA; Interior; 14; 46,91
+58900000; Jadlog; NE; PB; CAJAZEIRAS; Capital; 14; 14,1
+72150612; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+80620000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+88870000; Jadlog; S; SC; ORLEANS; Interior; 4; 31,86
+80240140; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+13483043; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+30880410; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+36045330; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+89520000; Jadlog; S; SC; CURITIBANOS; Interior; 4; 31,86
+22245070; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+41810825; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+90670020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+55038160; Jadlog; NE; PE; CARUARU; Capital; 9; 13,78
+73369026; Jadlog; CO; DF; BRASILIA; Interior; 3; 46,35
+22050031; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+78573000; Jadlog; CO; MT; TAPURAH; Interior; 14; 46,91
+22260110; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13478874; Jadlog; SE; SP; AMERICANA; Capital; 2; 12,51
+40226600; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+18134330; Jadlog; SE; SP; SAO ROQUE; Capital; 2; 12,51
+96200210; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+58052135; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+82310000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+77024592; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+22620320; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85615000; Jadlog; S; PR; MARMELEIRO; Capital; 4; 12,51
+73105909; Jadlog; CO; DF; BRASILIA; Interior; 4; 46,35
+71680375; Jadlog; CO; DF; BRASILIA; Capital; 5; 13,15
+5025000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69027034; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+8160700; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+80530230; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+25961200; Jadlog; SE; RJ; TERESOPOLIS; Capital; 4; 12,51
+9580690; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+2636000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+38055220; Jadlog; SE; MG; UBERABA; Capital; 3; 12,51
+37701012; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+72250407; Jadlog; CO; DF; BRASILIA; Capital; 4; 13,15
+6871240; Jadlog; SE; SP; ITAPECERICA DA SERRA; Interior; 3; 41,37
+23555106; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+23815160; Jadlog; SE; RJ; ITAGUAI; Capital; 5; 12,51
+22631370; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+90420000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+36305148; Jadlog; SE; MG; SAO JOAO DEL REI; Capital; 3; 12,51
+2123050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+47800010; Jadlog; NE; BA; BARREIRAS; Capital; 10; 13,47
+9390777; Jadlog; SE; SP; MAUA; Interior; 2; 41,37
+5136250; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3928130; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+13146000; Jadlog; SE; SP; PAULINIA; Capital; 2; 12,51
+82600380; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+30720340; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+29172115; Jadlog; SE; ES; SERRA; Capital; 5; 13,15
+8391420; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+71936250; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+88330027; Jadlog; S; SC; BALNEARIO CAMBORIU; Capital; 2; 12,44
+36033330; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+94850210; Jadlog; S; RS; ALVORADA; Capital; 3; 12,83
+63630000; Jadlog; NE; CE; PEDRA BRANCA; Interior; 11; 47,37
+1311100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9690030; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+18145970; Jadlog; SE; SP; SAO ROQUE; Capital; 2; 12,51
+4104080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5676080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+60140200; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+38183184; Jadlog; SE; MG; ARAXA; Capital; 3; 12,51
+86680000; Jadlog; S; PR; NOSSA SENHORA DAS GRACAS; Interior; 4; 41,37
+79102220; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+96600000; Jadlog; S; RS; CANGUCU; Interior; 7; 41,69
+4514050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+39403234; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+91920130; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+31255430; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+70380763; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+18205761; Jadlog; SE; SP; ITAPETININGA; Capital; 2; 12,51
+25070971; Jadlog; SE; RJ; DUQUE DE CAXIAS; Capital; 3; 12,51
+3680000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30240092; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+66093040; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+4120150; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+88270000; Jadlog; S; SC; NOVA TRENTO; Interior; 4; 31,86
+60175040; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+24240130; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+22251090; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4019040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22250145; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+14161120; Jadlog; SE; SP; SERTAOZINHO; Capital; 2; 12,51
+60361030; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+28613480; Jadlog; SE; RJ; NOVA FRIBURGO; Capital; 3; 12,51
+4004020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+87360000; Jadlog; S; PR; GOIOERE; Interior; 5; 41,37
+78043500; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+5315030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74080400; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+5061250; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80540010; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+70673404; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+71976370; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+90540031; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+5051030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59225000; Jadlog; NE; RN; JACANA; Interior; 14; 44,3
+36795000; Jadlog; SE; MG; SANTANA DE CATAGUASES; Interior; 5; 41,37
+80050450; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+86047360; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+71930750; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+30840430; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+21211060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13171680; Jadlog; SE; SP; SUMARE; Capital; 2; 12,51
+78056911; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+3266120; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45816000; Jadlog; NE; BA; PORTO SEGURO; Interior; 8; 58,73
+86039200; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+17052410; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+29164465; Jadlog; SE; ES; SERRA; Capital; 5; 13,15
+22745271; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13300220; Jadlog; SE; SP; ITU; Capital; 2; 12,51
+1151000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+21321050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+18530000; Jadlog; SE; SP; TIETE; Capital; 2; 12,51
+1308030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58063210; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+31720260; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+90220200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+79550000; Jadlog; CO; MS; COSTA RICA; Interior; 15; 46,75
+13104062; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+96020000; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+20260001; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+89240000; Jadlog; S; SC; SAO FRANCISCO DO SUL; Capital; 3; 12,44
+16074290; Jadlog; SE; SP; ARACATUBA; Capital; 2; 12,51
+7175050; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+97030850; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+1453030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70800200; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+3647000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13148906; Jadlog; SE; SP; PAULINIA; Capital; 2; 12,51
+9121250; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+18048130; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+38060380; Jadlog; SE; MG; UBERABA; Capital; 3; 12,51
+70775090; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+38400656; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+22631450; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+49095806; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+60115190; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+7436065; Jadlog; SE; SP; ARUJA; Capital; 3; 12,51
+30350260; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+22270000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4143010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+20240013; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+13084577; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+90520020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+35550000; Jadlog; SE; MG; ITAPECERICA; Interior; 4; 41,37
+13419311; Jadlog; SE; SP; PIRACICABA; Capital; 2; 12,51
+58401615; Jadlog; NE; PB; CAMPINA GRANDE; Capital; 9; 14,1
+66075525; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+15084210; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+1425001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+76817001; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+80040352; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+19802110; Jadlog; SE; SP; ASSIS; Capital; 2; 12,51
+20271220; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+30315560; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+4920000; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+29010250; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+11250000; Jadlog; SE; SP; BERTIOGA; Interior; 3; 41,37
+54460110; Jadlog; NE; PE; JABOATAO DOS GUARARAPES; Capital; 9; 13,78
+69082714; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+36081540; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+8673020; Jadlog; SE; SP; SUZANO; Capital; 2; 12,51
+1410002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+65077450; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+41650010; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+70670013; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+30140072; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+18270840; Jadlog; SE; SP; TATUI; Capital; 2; 12,51
+35181551; Jadlog; SE; MG; TIMOTEO; Capital; 3; 12,51
+60810050; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+9770070; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+88036400; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+74495700; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+22010010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+86270000; Jadlog; S; PR; SAO JERONIMO DA SERRA; Interior; 4; 41,37
+13283546; Jadlog; SE; SP; VINHEDO; Capital; 2; 12,51
+40170010; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+17506290; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+88802250; Jadlog; S; SC; CRICIUMA; Capital; 3; 12,44
+30350563; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+76820734; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+60125045; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+5074050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45836000; Jadlog; NE; BA; ITAMARAJU; Interior; 10; 58,73
+69313560; Jadlog; N; RR; BOA VISTA; Capital; 23; 37,71
+72238250; Jadlog; CO; DF; BRASILIA; Capital; 4; 13,15
+21931575; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+14405103; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+6186134; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+79750000; Jadlog; CO; MS; NOVA ANDRADINA; Interior; 10; 46,75
+11065403; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+79086441; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+6050010; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+58074020; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+5630130; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+49048390; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+13092526; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+22783360; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+1036100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5092040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30240500; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+64018220; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+80410030; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+9760000; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+89259565; Jadlog; S; SC; JARAGUA DO SUL; Capital; 2; 12,44
+13105855; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+64022245; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+39401036; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+20540114; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+7752280; Jadlog; SE; SP; CAJAMAR; Capital; 4; 12,51
+71994330; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+5301000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+56332758; Jadlog; NE; PE; PETROLINA; Capital; 7; 13,78
+22270000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22041011; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+66635110; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+4269001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+11065410; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+65690000; Jadlog; NE; MA; COLINAS; Interior; 15; 43,75
+65630140; Jadlog; NE; MA; TIMON; Capital; 13; 13,55
+70680350; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+7022000; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+8710240; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+45630000; Jadlog; NE; BA; ITAJUIPE; Interior; 9; 58,73
+38401188; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+59770000; Jadlog; NE; RN; PATU; Interior; 18; 44,3
+93225110; Jadlog; S; RS; SAPUCAIA DO SUL; Capital; 4; 12,83
+98700000; Jadlog; S; RS; IJUI; Capital; 3; 12,83
+87025520; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+57051420; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+6040014; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+4253000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30411262; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+60192330; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+22290175; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5404015; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90420041; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+71940720; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+5334000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9792400; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+22271010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+35559000; Jadlog; SE; MG; CARMO DO CAJURU; Capital; 6; 12,51
+5012000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70687315; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+14801086; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+95660000; Jadlog; S; RS; TRES COROAS; Capital; 4; 12,83
+79100430; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+4514041; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24340140; Jadlog; SE; RJ; NITEROI; Capital; 4; 12,51
+11060490; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+83055470; Jadlog; S; PR; SAO JOSE DOS PINHAIS; Capital; 2; 12,51
+74691886; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+5021010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22020002; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+23082110; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+13323230; Jadlog; SE; SP; SALTO; Capital; 2; 12,51
+6773040; Jadlog; SE; SP; TABOAO DA SERRA; Capital; 3; 12,51
+4236010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3237090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5092040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80730330; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+66055080; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+13213265; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+98910000; Jadlog; S; RS; TRES DE MAIO; Interior; 4; 41,69
+3470140; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13563673; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+3436040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30720570; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+8223340; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+5709010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14026610; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+19806310; Jadlog; SE; SP; ASSIS; Capital; 2; 12,51
+72309101; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+85795000; Jadlog; S; PR; SANTA LUCIA; Interior; 7; 41,37
+59155370; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+70865120; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+3170050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+36572108; Jadlog; SE; MG; VICOSA; Capital; 3; 12,51
+4533050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58297000; Jadlog; NE; PB; RIO TINTO; Interior; 9; 47,3
+70296040; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+4740020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+39100000; Jadlog; SE; MG; DIAMANTINA; Interior; 8; 41,37
+1222001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5033070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14409208; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+5266040; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+44051260; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+87060100; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+12235200; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+5318050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5422070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+84062260; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+76335000; Jadlog; CO; GO; URUANA; Interior; 6; 46,35
+4674159; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4101904; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+84010360; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+72006180; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+3151040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+56302170; Jadlog; NE; PE; PETROLINA; Capital; 7; 13,78
+9110200; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+14085058; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+13500330; Jadlog; SE; SP; RIO CLARO; Capital; 2; 12,51
+39745000; Jadlog; SE; MG; SENHORA DO PORTO; Interior; 5; 41,37
+60025101; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+30170080; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+17340000; Jadlog; SE; SP; BARRA BONITA; Capital; 4; 12,51
+38408050; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+40231250; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+13060123; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+8472195; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+40150080; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+4513100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13568110; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+24220300; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+42717130; Jadlog; NE; BA; LAURO DE FREITAS; Capital; 8; 13,47
+91110320; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+34006068; Jadlog; SE; MG; NOVA LIMA; Capital; 3; 12,51
+21920445; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22441000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+95082010; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+31655000; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+28970000; Jadlog; SE; RJ; ARARUAMA; Capital; 3; 12,51
+3065070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9321190; Jadlog; SE; SP; MAUA; Capital; 2; 12,51
+59150660; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+29090770; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+64770000; Jadlog; NE; PI; SAO RAIMUNDO NONATO; Interior; 20; 46,75
+72410239; Jadlog; CO; DF; BRASILIA; Interior; 5; 46,35
+90010350; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+15090365; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+80610330; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+21240260; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13010211; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+24416060; Jadlog; SE; RJ; SAO GONCALO; Capital; 4; 12,51
+69054672; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+90110020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+66030635; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+36025000; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+92030490; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+62900000; Jadlog; NE; CE; RUSSAS; Interior; 12; 47,37
+30310010; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+82515300; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+4020900; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+18213170; Jadlog; SE; SP; ITAPETININGA; Capital; 2; 12,51
+22071000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+70673034; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+75800011; Jadlog; CO; GO; JATAI; Capital; 3; 13,15
+70722020; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+70857170; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+72155202; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+87060170; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+1511001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13090769; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+21330600; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+53530610; Jadlog; NE; PE; ABREU E LIMA; Capital; 8; 13,78
+22081010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+20031902
+17120000; Jadlog; SE; SP; AGUDOS; Interior; 4; 41,37
+23811195; Jadlog; SE; RJ; ITAGUAI; Capital; 5; 12,51
+64053090; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+32605602; Jadlog; SE; MG; BETIM; Capital; 3; 12,51
+13084170; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+12460000; Jadlog; SE; SP; CAMPOS DO JORDAO; Capital; 4; 12,51
+22611201; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+29090490; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+95600076; Jadlog; S; RS; TAQUARA; Capital; 4; 12,83
+5541100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78070030; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+70297170; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+30220270; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+50610360; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+2072000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+68507765; Jadlog; N; PA; MARABA; Capital; 5; 13,55
+13562390; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+1321010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+36883031; Jadlog; SE; MG; MURIAE; Capital; 3; 12,51
+96015560; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+15093010; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+8247090; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+88010080; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+98970000; Jadlog; S; RS; CANDIDO GODOI; Interior; 4; 41,69
+88037001; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+85502070; Jadlog; S; PR; PATO BRANCO; Capital; 4; 12,51
+13040093; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+90470245; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+28035033; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+79010060; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+60110160; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+25710310; Jadlog; SE; RJ; PETROPOLIS; Capital; 3; 12,51
+26220080; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+85812045; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+59066020; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+17063010; Jadlog; SE; SP; BAURU; Capital; 2; 12,51
+14801063; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+56380000; Jadlog; NE; PE; SANTA MARIA DA BOA VISTA; Interior; 10; 46,75
+20541340; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+82020490; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+77022971; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+70686720; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+95700332; Jadlog; S; RS; BENTO GONCALVES; Capital; 3; 12,83
+36016390; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+13566440; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+52050020; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+27323540; Jadlog; SE; RJ; BARRA MANSA; Capital; 3; 12,51
+31035572; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+85892000; Jadlog; S; PR; SANTA HELENA; Interior; 5; 41,37
+52020015; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+6624010; Jadlog; SE; SP; JANDIRA; Capital; 3; 12,51
+91410400; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+5020000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+89980000; Jadlog; S; SC; CAMPO ERE; Interior; 5; 31,86
+18110382; Jadlog; SE; SP; VOTORANTIM; Capital; 3; 12,51
+57615000; Jadlog; NE; AL; MINADOR DO NEGRAO; Interior; 10; 43,67
+1409003; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3271040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+65059630; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+79180000; Jadlog; CO; MS; RIBAS DO RIO PARDO; Interior; 15; 46,75
+36700000; Jadlog; SE; MG; LEOPOLDINA; Capital; 4; 12,51
+23060500; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+71937720; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+58033090; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+97700000; Jadlog; S; RS; SANTIAGO; Interior; 4; 41,69
+69090070; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+20231016; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+75144850; Jadlog; CO; GO; ANAPOLIS; Capital; 3; 13,15
+88331030; Jadlog; S; SC; BALNEARIO CAMBORIU; Capital; 2; 12,44
+60115170; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+76965806; Jadlog; N; RO; CACOAL; Capital; 20; 14,31
+7727540; Jadlog; SE; SP; CAIEIRAS; Capital; 2; 12,51
+93700000; Jadlog; S; RS; CAMPO BOM; Capital; 5; 12,83
+54320113; Jadlog; NE; PE; JABOATAO DOS GUARARAPES; Capital; 9; 13,78
+71675240; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+14401220; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+97010421; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+30140110; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+5016110; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13023040; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+5458001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5661020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90620170; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+73252200; Jadlog; CO; DF; BRASILIA; Interior; 4; 46,35
+82400230; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+9080110; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+78049418; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+36570236; Jadlog; SE; MG; VICOSA; Capital; 3; 12,51
+86015700; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+13332203; Jadlog; SE; SP; INDAIATUBA; Capital; 2; 12,51
+29311743; Jadlog; SE; ES; CACHOEIRO DE ITAPEMIRIM; Capital; 5; 13,15
+11060475; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+70755060; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+71936250; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+5187010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4037004; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59086640; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+40275160; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+38182186; Jadlog; SE; MG; ARAXA; Capital; 3; 12,51
+26280710; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+76803899; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+35160290; Jadlog; SE; MG; IPATINGA; Capital; 3; 12,51
+9020240; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+13484458; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+5435050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+48030470; Jadlog; NE; BA; ALAGOINHAS; Interior; 9; 58,73
+88523000; Jadlog; S; SC; LAGES; Capital; 3; 12,44
+68927078; Jadlog; N; AP; SANTANA; Interior; 18; 61,89
+1333021; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+79823610; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+76900048; Jadlog; N; RO; JIPARANA; Capital; 18; 14,31
+78310000; Jadlog; CO; MT; COMODORO; Interior; 16; 46,91
+20540103; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13212448; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+89812120; Jadlog; S; SC; CHAPECO; Capital; 3; 12,44
+64000370; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+90880481; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+13186503; Jadlog; SE; SP; HORTOLANDIA; Capital; 2; 12,51
+13209355; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+96212050; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+49035690; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+75904160; Jadlog; CO; GO; RIO VERDE; Capital; 5; 13,15
+90150002; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+95860000; Jadlog; S; RS; TAQUARI; Interior; 6; 41,69
+1322000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+27542170; Jadlog; SE; RJ; RESENDE; Capital; 3; 12,51
+3067010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+6767250; Jadlog; SE; SP; TABOAO DA SERRA; Capital; 3; 12,51
+22271091; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+30411153; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+88770000; Jadlog; S; SC; IMARUI; Interior; 5; 31,86
+13466300; Jadlog; SE; SP; AMERICANA; Capital; 2; 12,51
+38440009; Jadlog; SE; MG; ARAGUARI; Capital; 3; 12,51
+31130760; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+22050031; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+15625000; Jadlog; SE; SP; MERIDIANO; Interior; 4; 41,37
+37900094; Jadlog; SE; MG; PASSOS; Capital; 2; 12,51
+5508030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90010395; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+68455005; Jadlog; N; PA; TUCURUI; Interior; 8; 71,47
+3045000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+40425090; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+90480200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+7040270; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+3260000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+6704500; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+32145900; Jadlog; SE; MG; CONTAGEM; Capital; 2; 12,51
+3564000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13550000; Jadlog; SE; SP; ANALANDIA; Interior; 5; 41,37
+85892000; Jadlog; S; PR; SANTA HELENA; Interior; 5; 41,37
+31155740; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+88062120; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+97543440; Jadlog; S; RS; ALEGRETE; Interior; 5; 41,69
+80520250; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+70352110; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+5590120; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30130171; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+95660000; Jadlog; S; RS; TRES COROAS; Capital; 4; 12,83
+88040410; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+65070400; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+96040500; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+75800300; Jadlog; CO; GO; JATAI; Capital; 3; 13,15
+58038142; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+6414025; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+91920530; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+95185000; Jadlog; S; RS; CARLOS BARBOSA; Capital; 3; 12,83
+86020440; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+71680360; Jadlog; CO; DF; BRASILIA; Capital; 5; 13,15
+97050060; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+79034440; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+70238150; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+20260141; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+12703360; Jadlog; SE; SP; CRUZEIRO; Capital; 3; 12,51
+41341760; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+70257030; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+78032040; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+5468020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+88140000; Jadlog; S; SC; SANTO AMARO DA IMPERATRIZ; Interior; 5; 31,86
+41680113; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+24240000; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+22620062; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+81210245; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+5418020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96010280; Jadlog; S; RS; PELOTAS; Capital; 3; 12,83
+12260000; Jadlog; SE; SP; PARAIBUNA; Interior; 6; 41,37
+90690020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+49630000; Jadlog; NE; SE; SIRIRI; Interior; 12; 43,67
+79826623; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+18609096; Jadlog; SE; SP; BOTUCATU; Capital; 2; 12,51
+59110400; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+3171040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+77006536; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+30160913; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+22010010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13390000; Jadlog; SE; SP; RIO DAS PEDRAS; Interior; 4; 41,37
+30180160; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+3804130; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+13342111; Jadlog; SE; SP; INDAIATUBA; Capital; 2; 12,51
+65075820; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+20550035; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+9170155; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+85601310; Jadlog; S; PR; FRANCISCO BELTRAO; Capital; 3; 12,51
+36015450; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+35830000; Jadlog; SE; MG; JABOTICATUBAS; Interior; 4; 41,37
+79002480; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+60530540; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+30720380; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+14790000; Jadlog; SE; SP; GUAIRA; Interior; 4; 41,37
+80510342; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+3122010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+87020070; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+76808284; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+12221000; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+45550000; Jadlog; NE; BA; UBATA; Interior; 15; 58,73
+22071100; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+1402002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+26220080; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+5033080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9541270; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+58200000; Jadlog; NE; PB; GUARABIRA; Interior; 12; 47,3
+89270000; Jadlog; S; SC; GUARAMIRIM; Interior; 2; 31,86
+22743051; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13574040; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+84010180; Jadlog; S; PR; PONTA GROSSA; Capital; 2; 12,51
+99040620; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+20031040
+93022718; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+21825020; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+23900310; Jadlog; SE; RJ; ANGRA DOS REIS; Capital; 3; 12,51
+4304010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45810000; Jadlog; NE; BA; PORTO SEGURO; Interior; 8; 58,73
+59500000; Jadlog; NE; RN; MACAU; Interior; 16; 44,3
+60714502; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+4015050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5059010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+60420330; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+28010076; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+30140082; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+21910280; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+7023054; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+83255000; Jadlog; S; PR; PONTAL DO PARANA; Interior; 5; 41,37
+9290090; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+13565090; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+22270010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5052010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5404004; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29104228; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+71705535; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+22790671; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+28035080; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+60426090; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+35620000; Jadlog; SE; MG; ABAETE; Interior; 5; 41,37
+49040660; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+80420200; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+76820606; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+63660000; Jadlog; NE; CE; TAUA; Interior; 17; 47,37
+4135000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+15804225; Jadlog; SE; SP; CATANDUVA; Capital; 3; 12,51
+9550051; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+14405327; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+5335120; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4020001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+77024074; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+13171505; Jadlog; SE; SP; SUMARE; Capital; 2; 12,51
+9421220; Jadlog; SE; SP; RIBEIRAO PIRES; Capital; 3; 12,51
+74610210; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+90570110; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+13214076; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+56310090; Jadlog; NE; PE; PETROLINA; Capital; 7; 13,78
+90460001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88030300; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+80420000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+4637020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14802416; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+1409003; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69312523; Jadlog; N; RR; BOA VISTA; Capital; 23; 37,71
+85950000; Jadlog; S; PR; PALOTINA; Interior; 5; 41,37
+4203002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+83005570; Jadlog; S; PR; SAO JOSE DOS PINHAIS; Capital; 2; 12,51
+98130000; Jadlog; S; RS; JULIO DE CASTILHOS; Interior; 4; 41,69
+60520795; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+89504506; Jadlog; S; SC; CACADOR; Capital; 3; 12,44
+88036500; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+22631000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+62870000; Jadlog; NE; CE; PACAJUS; Interior; 13; 47,37
+24230322; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+74350730; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+55500000; Jadlog; NE; PE; ESCADA; Interior; 13; 46,75
+70702905; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+69083020; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+92130370; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+67033025; Jadlog; N; PA; ANANINDEUA; Capital; 7; 13,55
+2840040; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+89801061; Jadlog; S; SC; CHAPECO; Capital; 3; 12,44
+13212154; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+33860290; Jadlog; SE; MG; RIBEIRAO DAS NEVES; Capital; 5; 12,51
+39401290; Jadlog; SE; MG; MONTES CLAROS; Capital; 4; 12,51
+91900420; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22280020; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+20560210; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+20231110; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+90640140; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+30130170; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+51021010; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+78280000; Jadlog; CO; MT; MIRASSOL DOESTE; Interior; 15; 46,91
+82130290; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+9843000; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+13213073; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+22031012; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5502060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+53407160; Jadlog; NE; PE; PAULISTA; Capital; 7; 13,78
+13416389; Jadlog; SE; SP; PIRACICABA; Capital; 2; 12,51
+4891150; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+81200110; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+97010005; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+30411303; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+2378200; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+59090430; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+82620110; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+78830000; Jadlog; CO; MT; DOM AQUINO; Interior; 14; 46,91
+96400010; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+66095015; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+87309132; Jadlog; S; PR; CAMPO MOURAO; Capital; 3; 12,51
+2336040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70704050; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+75640000; Jadlog; CO; GO; PIRACANJUBA; Interior; 6; 46,35
+11714410; Jadlog; SE; SP; PRAIA GRANDE; Capital; 3; 12,51
+1421902; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14882128; Jadlog; SE; SP; JABOTICABAL; Capital; 2; 12,51
+23059280; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+5428002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24800009; Jadlog; SE; RJ; ITABORAI; Capital; 3; 12,51
+22793295; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+6540430; Jadlog; SE; SP; SANTANA DE PARNAIBA; Capital; 3; 12,51
+1409000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74030020; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+9810680; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+92500000; Jadlog; S; RS; GUAIBA; Capital; 3; 12,83
+45028742; Jadlog; NE; BA; VITORIA DA CONQUISTA; Capital; 8; 13,47
+98380000; Jadlog; S; RS; SEBERI; Interior; 9; 41,69
+31260520; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+1218012; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+43700000; Jadlog; NE; BA; SIMOES FILHO; Interior; 7; 58,73
+90430020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+38440282; Jadlog; SE; MG; ARAGUARI; Capital; 3; 12,51
+38413600; Jadlog; SE; MG; UBERLANDIA; Capital; 2; 12,51
+5462060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+98792140; Jadlog; S; RS; SANTA ROSA; Capital; 3; 12,83
+30170110; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+18460000; Jadlog; SE; SP; ITARARE; Capital; 5; 12,51
+4530050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1232001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+65066615; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+20775000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5043010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5579000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13580000; Jadlog; SE; SP; RIBEIRAO BONITO; Capital; 5; 12,51
+4532080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12307320; Jadlog; SE; SP; JACAREI; Capital; 2; 12,51
+6846570; Jadlog; SE; SP; EMBU DAS ARTES; Capital; 3; 12,51
+66040100; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+36035430; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+86702471; Jadlog; S; PR; ARAPONGAS; Capital; 2; 12,51
+20520050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+13484588; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+87020270; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+97935000; Jadlog; S; RS; MATO QUEIMADO; Interior; 7; 41,69
+13607443; Jadlog; SE; SP; ARARAS; Capital; 2; 12,51
+59062460; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+21921680; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+64000090; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+21230450; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+38800000; Jadlog; SE; MG; SAO GOTARDO; Capital; 3; 12,51
+56220000; Jadlog; NE; PE; BODOCO; Interior; 10; 46,75
+20011020
+20720180; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+73252900; Jadlog; CO; DF; BRASILIA; Interior; 4; 46,35
+79052064; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+4050000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80420130; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+80620140; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+75144515; Jadlog; CO; GO; ANAPOLIS; Capital; 3; 13,15
+1425080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+55296230; Jadlog; NE; PE; GARANHUNS; Capital; 12; 13,78
+12244852; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+12227778; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+4104080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24220360; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+1221020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1232000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70670208; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+66065217; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+30150311; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+96400600; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+22280010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+11065220; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+71680604; Jadlog; CO; DF; BRASILIA; Capital; 5; 13,15
+92110230; Jadlog; S; RS; CANOAS; Capital; 3; 12,83
+4078000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+29055340; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+90820000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+4313210; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12460000; Jadlog; SE; SP; CAMPOS DO JORDAO; Capital; 4; 12,51
+73808335; Jadlog; CO; GO; FORMOSA; Capital; 3; 13,15
+31140280; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+4821070; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+64890000; Jadlog; NE; PI; CANTO DO BURITI; Interior; 16; 46,75
+47802255; Jadlog; NE; BA; BARREIRAS; Capital; 10; 13,47
+90610000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+21331050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60140160; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+76907556; Jadlog; N; RO; JIPARANA; Capital; 18; 14,31
+71655010; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+79022340; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+13506692; Jadlog; SE; SP; RIO CLARO; Capital; 2; 12,51
+14800022; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+8190040; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+22790190; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+93336150; Jadlog; S; RS; NOVO HAMBURGO; Capital; 3; 12,83
+45075205; Jadlog; NE; BA; VITORIA DA CONQUISTA; Capital; 8; 13,47
+4052010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1303010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+38600000; Jadlog; SE; MG; PARACATU; Capital; 3; 12,51
+86825000; Jadlog; S; PR; MARILANDIA DO SUL; Interior; 5; 41,37
+40080002; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+1455010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+58055000; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+70766020; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+1435001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80610040; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1020000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4649000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4111001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5396060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3666020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+37805000; Jadlog; SE; MG; JURUAIA; Capital; 3; 12,51
+31555370; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+60160110; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+1046010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+8502310; Jadlog; SE; SP; FERRAZ DE VASCONCELOS; Interior; 3; 41,37
+21920240; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+20260230; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+12954727; Jadlog; SE; SP; ATIBAIA; Capital; 2; 12,51
+88523010; Jadlog; S; SC; LAGES; Capital; 3; 12,44
+5440010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+94820490; Jadlog; S; RS; ALVORADA; Capital; 3; 12,83
+48903050; Jadlog; NE; BA; JUAZEIRO; Capital; 9; 13,47
+2224000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1404001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+8671020; Jadlog; SE; SP; SUZANO; Capital; 2; 12,51
+63137000; Jadlog; NE; CE; CRATO; Capital; 11; 14,42
+40210630; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+1321001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+15108000; Jadlog; SE; SP; IPIGUA; Interior; 4; 41,37
+30140073; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+71705025; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+60015080; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+88047010; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+88032005; Jadlog; S; SC; FLORIANOPOLIS; Capital; 3; 12,44
+40170130; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+88860000; Jadlog; S; SC; SIDEROPOLIS; Interior; 4; 31,86
+86010180; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+70875070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+22231130; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+12460000; Jadlog; SE; SP; CAMPOS DO JORDAO; Capital; 4; 12,51
+6036080; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+36015330; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+22783383; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+38270000; Jadlog; SE; MG; CAMPINA VERDE; Interior; 5; 41,37
+7097030; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+88102101; Jadlog; S; SC; SAO JOSE; Capital; 2; 12,44
+13085045; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+90880480; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88215000; Jadlog; S; SC; BOMBINHAS; Interior; 4; 31,86
+2430002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22290010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+3178001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+25070260; Jadlog; SE; RJ; DUQUE DE CAXIAS; Capital; 3; 12,51
+12246002; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+85501268; Jadlog; S; PR; PATO BRANCO; Capital; 4; 12,51
+39100000; Jadlog; SE; MG; DIAMANTINA; Interior; 8; 41,37
+19035040; Jadlog; SE; SP; PRESIDENTE PRUDENTE; Capital; 2; 12,51
+22450130; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+14900000; Jadlog; SE; SP; ITAPOLIS; Capital; 3; 12,51
+13900000
+20910140; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+81050210; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+85640000; Jadlog; S; PR; AMPERE; Interior; 7; 41,37
+70865150; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+1228000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4649030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+52071370; Jadlog; NE; PE; RECIFE; Capital; 8; 13,78
+13995000; Jadlog; SE; SP; SANTO ANTONIO DO JARDIM; Interior; 4; 41,37
+36016460; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+54786001; Jadlog; NE; PE; CAMARAGIBE; Capital; 9; 13,78
+84500000; Jadlog; S; PR; IRATI; Interior; 5; 41,37
+79760000; Jadlog; CO; MS; BATAYPORA; Interior; 8; 46,75
+56308120; Jadlog; NE; PE; PETROLINA; Capital; 7; 13,78
+41950470; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+30130130; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+17209860; Jadlog; SE; SP; JAU; Capital; 2; 12,51
+28944054; Jadlog; SE; RJ; SAO PEDRO DA ALDEIA; Capital; 4; 12,51
+80060010; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+71919180; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+90410005; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+3040000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70845140; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+13210705; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+57025890; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+13566440; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+90200001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+26216032; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+30320400; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+22631360; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+14161212; Jadlog; SE; SP; SERTAOZINHO; Capital; 2; 12,51
+22710255; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+1323001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71940540; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+88311549; Jadlog; S; SC; ITAJAI; Capital; 2; 12,44
+61760000; Jadlog; NE; CE; EUSEBIO; Interior; 10; 47,37
+90620190; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88102450; Jadlog; S; SC; SAO JOSE; Capital; 2; 12,44
+24230200; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+4383070; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78025300; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+59082110; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+60410505; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+76820662; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+13453723; Jadlog; SE; SP; SANTA BARBARA DOESTE; Capital; 3; 12,51
+23826400; Jadlog; SE; RJ; ITAGUAI; Capital; 5; 12,51
+58043210; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+73092010; Jadlog; CO; DF; BRASILIA; Interior; 4; 46,35
+24230240; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+70299140; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+13212210; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+60712045; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+95780000; Jadlog; S; RS; MONTENEGRO; Capital; 4; 12,83
+58800330; Jadlog; NE; PB; SOUSA; Interior; 12; 47,3
+80010180; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+1311200; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+21755280; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+90410002; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+2422160; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22245100; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+80440120; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+22020060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4476120; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+11750000; Jadlog; SE; SP; PERUIBE; Interior; 4; 41,37
+12516180; Jadlog; SE; SP; GUARATINGUETA; Capital; 2; 12,51
+49020480; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+4583100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+28300000; Jadlog; SE; RJ; ITAPERUNA; Capital; 3; 12,51
+4016003; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+9090150; Jadlog; SE; SP; SANTO ANDRE; Capital; 2; 12,51
+95599000; Jadlog; S; RS; BALNEARIO PINHAL; Interior; 5; 41,69
+91770570; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+70680470; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+74354050; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+31570390; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+9771220; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+23010420; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+33010500; Jadlog; SE; MG; SANTA LUZIA; Capital; 3; 12,51
+8710240; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+13044650; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+59030470; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+4251100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+1223010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4387270; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95555000; Jadlog; S; RS; CAPAO DA CANOA; Interior; 4; 41,69
+6620000; Jadlog; SE; SP; JANDIRA; Capital; 3; 12,51
+19802320; Jadlog; SE; SP; ASSIS; Capital; 2; 12,51
+1223000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+57051190; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+6712100; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+3185020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+53130020; Jadlog; NE; PE; OLINDA; Capital; 7; 13,78
+87020220; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+13184235; Jadlog; SE; SP; HORTOLANDIA; Capital; 2; 12,51
+2353090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90035190; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+64150000; Jadlog; NE; PI; MATIAS OLIMPIO; Interior; 12; 46,75
+70846520; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+60533605; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+1424000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90010282; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+9572300; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+80230780; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+79840300; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+91330280; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+9732570; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+55014000; Jadlog; NE; PE; CARUARU; Capital; 9; 13,78
+6045420; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+2011000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+91760660; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88352201; Jadlog; S; SC; BRUSQUE; Capital; 3; 12,44
+29060050; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+22775033; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+5435000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78740240; Jadlog; CO; MT; RONDONOPOLIS; Capital; 7; 13,71
+13630140; Jadlog; SE; SP; PIRASSUNUNGA; Capital; 2; 12,51
+95170432; Jadlog; S; RS; FARROUPILHA; Capital; 3; 12,83
+19274000; Jadlog; SE; SP; ROSANA; Interior; 5; 41,37
+90820000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+95680000; Jadlog; S; RS; CANELA; Capital; 5; 12,83
+38170000; Jadlog; SE; MG; PERDIZES; Interior; 4; 41,37
+13566400; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+40080040; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+35680285; Jadlog; SE; MG; ITAUNA; Capital; 3; 12,51
+30170122; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+29090070; Jadlog; SE; ES; VITORIA; Capital; 3; 13,15
+78048350; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+79051150; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+82100440; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+75075660; Jadlog; CO; GO; ANAPOLIS; Capital; 3; 13,15
+36025160; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+14027025; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+37540000; Jadlog; SE; MG; SANTA RITA DO SAPUCAI; Capital; 2; 12,51
+3978390; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+4303000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13335010; Jadlog; SE; SP; INDAIATUBA; Capital; 2; 12,51
+88015140; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+91225001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+65602310; Jadlog; NE; MA; CAXIAS; Capital; 9; 13,55
+12916330; Jadlog; SE; SP; BRAGANCA PAULISTA; Capital; 2; 12,51
+45656528; Jadlog; NE; BA; ILHEUS; Capital; 8; 13,47
+44245000; Jadlog; NE; BA; CONCEICAO DO JACUIPE; Interior; 8; 58,73
+23094380; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+57035556; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+50050150; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+40150480; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+35500445; Jadlog; SE; MG; DIVINOPOLIS; Capital; 3; 12,51
+26210000; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+20060050
+27250470; Jadlog; SE; RJ; VOLTA REDONDA; Capital; 3; 12,51
+5075060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+7081280; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+57602030; Jadlog; NE; AL; PALMEIRA DOS INDIOS; Interior; 10; 43,67
+4207002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+61600400; Jadlog; NE; CE; CAUCAIA; Capital; 9; 14,42
+82220050; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+13177432; Jadlog; SE; SP; SUMARE; Capital; 2; 12,51
+78040030; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+93020650; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+85575000; Jadlog; S; PR; SAO JORGE DOESTE; Interior; 8; 41,37
+31070430; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+87014090; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+89249000; Jadlog; S; SC; ITAPOA; Interior; 6; 31,86
+14811237; Jadlog; SE; SP; ARARAQUARA; Capital; 2; 12,51
+24936740; Jadlog; SE; RJ; MARICA; Capital; 3; 12,51
+18800000; Jadlog; SE; SP; PIRAJU; Interior; 5; 41,37
+71918360; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+81570390; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+88020001; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+70878020; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+85902060; Jadlog; S; PR; TOLEDO; Capital; 3; 12,51
+90160093; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+2372090; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+18685160; Jadlog; SE; SP; LENCOIS PAULISTA; Capital; 2; 12,51
+26255510; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+74690970; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+1228100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45994649; Jadlog; NE; BA; TEIXEIRA DE FREITAS; Capital; 8; 13,47
+1520000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+2411000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+23820760; Jadlog; SE; RJ; ITAGUAI; Capital; 5; 12,51
+79814241; Jadlog; CO; MS; DOURADOS; Capital; 11; 13,55
+84200000; Jadlog; S; PR; JAGUARIAIVA; Interior; 5; 41,37
+96200380; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+5433002; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90540020; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+83702320; Jadlog; S; PR; ARAUCARIA; Capital; 3; 12,51
+31310550; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+68440000; Jadlog; N; PA; ABAETETUBA; Interior; 14; 71,47
+90010190; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+21073050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22221030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4030030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4003000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+35960000; Jadlog; SE; MG; SANTA BARBARA; Capital; 4; 12,51
+1314000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12530000; Jadlog; SE; SP; CUNHA; Interior; 6; 41,37
+26032310; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+65077500; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+14300000; Jadlog; SE; SP; BATATAIS; Interior; 4; 41,37
+94410400; Jadlog; S; RS; VIAMAO; Capital; 3; 12,83
+60320200; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+50771330; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+7162580; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+1229001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30720220; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+33400000; Jadlog; SE; MG; LAGOA SANTA; Capital; 4; 12,51
+95890000; Jadlog; S; RS; TEUTONIA; Capital; 5; 12,83
+7995270; Jadlog; SE; SP; FRANCISCO MORATO; Interior; 3; 41,37
+90230030; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+13070001; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+90130051; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22010010; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+11608236; Jadlog; SE; SP; SAO SEBASTIAO; Capital; 4; 12,51
+88015230; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+93010170; Jadlog; S; RS; SAO LEOPOLDO; Capital; 3; 12,83
+4317000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+37552067; Jadlog; SE; MG; POUSO ALEGRE; Capital; 2; 12,51
+22070012; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22245120; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+37701169; Jadlog; SE; MG; POCOS DE CALDAS; Capital; 2; 12,51
+90440003; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+6053040; Jadlog; SE; SP; OSASCO; Capital; 2; 12,51
+91130450; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+20530003; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+66615265; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+95059560; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+97700000; Jadlog; S; RS; SANTIAGO; Interior; 4; 41,69
+22451265; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4012140; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90041970; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+22211150; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+90510003; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88035000; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+29260000; Jadlog; SE; ES; DOMINGOS MARTINS; Interior; 7; 42,01
+18052200; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+13026010; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+22240005; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+1248050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12830000; Jadlog; SE; SP; SAO JOSE DO BARREIRO; Interior; 7; 41,37
+89115156; Jadlog; S; SC; GASPAR; Capital; 3; 12,44
+12235361; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+22221000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+80045180; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+26380320; Jadlog; SE; RJ; QUEIMADOS; Capital; 3; 12,51
+88330524; Jadlog; S; SC; BALNEARIO CAMBORIU; Capital; 2; 12,44
+35400000; Jadlog; SE; MG; OURO PRETO; Capital; 3; 12,51
+3648020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+8673010; Jadlog; SE; SP; SUZANO; Capital; 2; 12,51
+12120000; Jadlog; SE; SP; TREMEMBE; Capital; 2; 12,51
+11030160; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+20780080; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+15840000; Jadlog; SE; SP; ITAJOBI; Capital; 7; 12,51
+73100420; Jadlog; CO; DF; BRASILIA; Interior; 4; 46,35
+6706135; Jadlog; SE; SP; COTIA; Capital; 2; 12,51
+80730000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+30220060; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+96400003; Jadlog; S; RS; BAGE; Capital; 3; 12,83
+65912190; Jadlog; NE; MA; IMPERATRIZ; Capital; 7; 13,55
+92480000; Jadlog; S; RS; NOVA SANTA RITA; Capital; 4; 12,83
+7242230; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+62670000; Jadlog; NE; CE; SAO GONCALO DO AMARANTE; Interior; 18; 47,37
+4632010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96825100; Jadlog; S; RS; SANTA CRUZ DO SUL; Capital; 3; 12,83
+1027020; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3303904; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+95750000; Jadlog; S; RS; SALVADOR DO SUL; Interior; 4; 41,69
+90450001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+4508031; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+93950000; Jadlog; S; RS; DOIS IRMAOS; Capital; 7; 12,83
+70765070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+58038322; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+35170211; Jadlog; SE; MG; CORONEL FABRICIANO; Capital; 3; 12,51
+29230000; Jadlog; SE; ES; ANCHIETA; Interior; 6; 42,01
+82900380; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+49032230; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+4607000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+65070840; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+11075320; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+30320100; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+13092140; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+86010580; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+14400020; Jadlog; SE; SP; FRANCA; Capital; 2; 12,51
+13574270; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+9571040; Jadlog; SE; SP; SAO CAETANO DO SUL; Capital; 2; 12,51
+93534010; Jadlog; S; RS; NOVO HAMBURGO; Capital; 3; 12,83
+13148302; Jadlog; SE; SP; PAULINIA; Capital; 2; 12,51
+4119000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3431000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70910900; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+13203770; Jadlog; SE; SP; JUNDIAI; Capital; 2; 12,51
+1304001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+76630000; Jadlog; CO; GO; ITABERAI; Interior; 5; 46,35
+98910000; Jadlog; S; RS; TRES DE MAIO; Interior; 4; 41,69
+24210510; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+79095067; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+28925842; Jadlog; SE; RJ; CABO FRIO; Capital; 3; 12,51
+22710310; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+79003210; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+9910720; Jadlog; SE; SP; DIADEMA; Capital; 2; 12,51
+32425545; Jadlog; SE; MG; IBIRITE; Capital; 7; 12,51
+27920390; Jadlog; SE; RJ; MACAE; Capital; 3; 12,51
+3177010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+69043010; Jadlog; N; AM; MANAUS; Capital; 20; 16,79
+91530034; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+77020502; Jadlog; N; TO; PALMAS; Capital; 5; 13,55
+3287050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+57025050; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+13564030; Jadlog; SE; SP; SAO CARLOS; Capital; 2; 12,51
+16011015; Jadlog; SE; SP; ARACATUBA; Capital; 2; 12,51
+22221090; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+2511010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4128080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5713460; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70274100; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+4001130; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+72115511; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+91370170; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+20510260; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+74230025; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+3336010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14024310; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+3513000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+97015550; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+45605530; Jadlog; NE; BA; ITABUNA; Capital; 8; 13,47
+1203000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78600000; Jadlog; CO; MT; BARRA DO GARCAS; Interior; 17; 46,91
+64218450; Jadlog; NE; PI; PARNAIBA; Interior; 14; 46,75
+44085690; Jadlog; NE; BA; FEIRA DE SANTANA; Capital; 8; 13,47
+51240010; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+13720000; Jadlog; SE; SP; SAO JOSE DO RIO PARDO; Capital; 2; 12,51
+64014047; Jadlog; NE; PI; TERESINA; Capital; 9; 13,55
+62960000; Jadlog; NE; CE; TABULEIRO DO NORTE; Interior; 12; 47,37
+59060300; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+12215340; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+13870234; Jadlog; SE; SP; SAO JOAO DA BOA VISTA; Capital; 3; 12,51
+89275000; Jadlog; S; SC; SCHROEDER; Capital; 2; 12,44
+13506690; Jadlog; SE; SP; RIO CLARO; Capital; 2; 12,51
+90450120; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+3319000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+90850130; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+90810070; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+30640100; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+13520000; Jadlog; SE; SP; SAO PEDRO; Interior; 4; 41,37
+79063550; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+4507011; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+25975560; Jadlog; SE; RJ; TERESOPOLIS; Capital; 4; 12,51
+99010102; Jadlog; S; RS; PASSO FUNDO; Capital; 3; 12,83
+91510510; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+2757030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+91910251; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+58400747; Jadlog; NE; PB; CAMPINA GRANDE; Capital; 9; 14,1
+80530000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+69980000; Jadlog; N; AC; CRUZEIRO DO SUL; Interior; 25; 62,18
+2371010; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+88523060; Jadlog; S; SC; LAGES; Capital; 3; 12,44
+71908360; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+6840000; Jadlog; SE; SP; EMBU DAS ARTES; Capital; 3; 12,51
+89140000; Jadlog; S; SC; IBIRAMA; Interior; 4; 31,86
+91060170; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+30315540; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+13075630; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+24240185; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+52051380; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+4661000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71675360; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+23094091; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+21230043; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+68230000; Jadlog; N; PA; ALMEIRIM; Interior; 25; 71,47
+11085540; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+89580000; Jadlog; S; SC; FRAIBURGO; Interior; 5; 31,86
+20511190; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+22070012; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+23894378; Jadlog; SE; RJ; SEROPEDICA; Interior; 4; 41,37
+99300000; Jadlog; S; RS; SOLEDADE; Interior; 5; 41,69
+13090509; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+7181150; Jadlog; SE; SP; GUARULHOS; Capital; 2; 12,51
+80510090; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+81870370; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+5314000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+57036410; Jadlog; NE; AL; MACEIO; Capital; 8; 13,47
+87013040; Jadlog; S; PR; MARINGA; Capital; 2; 12,51
+13080655; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+70750716; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+62320000; Jadlog; NE; CE; TIANGUA; Interior; 18; 47,37
+51240225; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+13481111; Jadlog; SE; SP; LIMEIRA; Capital; 2; 12,51
+4321120; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+96810072; Jadlog; S; RS; SANTA CRUZ DO SUL; Capital; 3; 12,83
+59022300; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+73050190; Jadlog; CO; DF; BRASILIA; Interior; 4; 46,35
+20271100; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+63111040; Jadlog; NE; CE; CRATO; Capital; 11; 14,42
+13065900; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+70234070; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+36200682; Jadlog; SE; MG; BARBACENA; Capital; 3; 12,51
+5501000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+2614000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22230000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+11320200; Jadlog; SE; SP; SAO VICENTE; Capital; 3; 12,51
+5303000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71915250; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+12310490; Jadlog; SE; SP; JACAREI; Capital; 2; 12,51
+78050269; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+4201050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+59152600; Jadlog; NE; RN; PARNAMIRIM; Capital; 10; 14,1
+19274000; Jadlog; SE; SP; ROSANA; Interior; 5; 41,37
+51130020; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+8790340; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+22221060; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+90035140; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+74694370; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+5794330; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+72876316; Jadlog; CO; GO; VALPARAISO DE GOIAS; Interior; 4; 46,35
+37600000; Jadlog; SE; MG; CAMBUI; Interior; 5; 41,37
+85810050; Jadlog; S; PR; CASCAVEL; Capital; 3; 12,51
+41650002; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+12916370; Jadlog; SE; SP; BRAGANCA PAULISTA; Capital; 2; 12,51
+59082070; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+60115191; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+94420000; Jadlog; S; RS; VIAMAO; Capital; 3; 12,83
+6355420; Jadlog; SE; SP; CARAPICUIBA; Capital; 2; 12,51
+3880090; Jadlog; SE; SP; SAO PAULO; Capital; 3; 12,51
+78060040; Jadlog; CO; MT; CUIABA; Capital; 10; 13,71
+90020024; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+96930000; Jadlog; S; RS; CANDELARIA; Interior; 4; 41,69
+22750013; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+85863730; Jadlog; S; PR; FOZ DO IGUACU; Capital; 3; 12,51
+78740620; Jadlog; CO; MT; RONDONOPOLIS; Capital; 7; 13,71
+66055260; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+74110130; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+4293060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+86078230; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+91751000; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+2964060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+49085100; Jadlog; NE; SE; ARACAJU; Capital; 8; 13,47
+50740270; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+97502560; Jadlog; S; RS; URUGUAIANA; Capital; 4; 12,83
+76801109; Jadlog; N; RO; PORTO VELHO; Capital; 15; 14,31
+78110903; Jadlog; CO; MT; VARZEA GRANDE; Capital; 10; 13,71
+5415050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+74493270; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+15010070; Jadlog; SE; SP; SAO JOSE DO RIO PRETO; Capital; 2; 12,51
+30320080; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+95611074; Jadlog; S; RS; TAQUARA; Capital; 4; 12,83
+98801640; Jadlog; S; RS; SANTO ANGELO; Capital; 3; 12,83
+70790110; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+22411002; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+18440000; Jadlog; SE; SP; ITABERA; Capital; 4; 12,51
+11618342; Jadlog; SE; SP; SAO SEBASTIAO; Capital; 4; 12,51
+60125161; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+20231030; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+90820030; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+70673404; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+8010040; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+9913000; Jadlog; SE; SP; DIADEMA; Capital; 2; 12,51
+90670040; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+88701640; Jadlog; S; SC; TUBARAO; Capital; 3; 12,44
+51030000; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+8140240; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+9950420; Jadlog; SE; SP; DIADEMA; Capital; 2; 12,51
+95020172; Jadlog; S; RS; CAXIAS DO SUL; Capital; 3; 12,83
+1331010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4105063; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30530020; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+99400000; Jadlog; S; RS; ESPUMOSO; Interior; 5; 41,69
+90050200; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+13860000; Jadlog; SE; SP; AGUAI; Interior; 4; 41,37
+52061050; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+29101120; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+22270000; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+74845180; Jadlog; CO; GO; GOIANIA; Capital; 2; 13,15
+13221800; Jadlog; SE; SP; VARZEA PAULISTA; Capital; 3; 12,51
+37170000; Jadlog; SE; MG; BOA ESPERANCA; Interior; 6; 41,37
+88070150; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+36036900; Jadlog; SE; MG; JUIZ DE FORA; Capital; 3; 12,51
+89030300; Jadlog; S; SC; BLUMENAU; Capital; 2; 12,44
+85601830; Jadlog; S; PR; FRANCISCO BELTRAO; Capital; 3; 12,51
+13390000; Jadlog; SE; SP; RIO DAS PEDRAS; Interior; 4; 41,37
+22220001; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4635041; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+66615640; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+52060160; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+30140084; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+8670050; Jadlog; SE; SP; SUZANO; Capital; 2; 12,51
+4313210; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+80045190; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+35600000; Jadlog; SE; MG; BOM DESPACHO; Capital; 3; 12,51
+18025792; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+25655090; Jadlog; SE; RJ; PETROPOLIS; Capital; 3; 12,51
+3115001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+6460010; Jadlog; SE; SP; BARUERI; Capital; 2; 12,51
+35680448; Jadlog; SE; MG; ITAUNA; Capital; 3; 12,51
+5539040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12244857; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+5181180; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+18612038; Jadlog; SE; SP; BOTUCATU; Capital; 2; 12,51
+13087460; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+18440000; Jadlog; SE; SP; ITABERA; Capital; 4; 12,51
+18150000; Jadlog; SE; SP; IBIUNA; Interior; 4; 41,37
+33900667; Jadlog; SE; MG; RIBEIRAO DAS NEVES; Capital; 5; 12,51
+80540000; Jadlog; S; PR; CURITIBA; Capital; 2; 12,51
+5776440; Jadlog; SE; SP; SAO PAULO; Interior; 2; 41,37
+4085000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+88710000; Jadlog; S; SC; TREZE DE MAIO; Interior; 4; 31,86
+1329010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71503511; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+62375000; Jadlog; NE; CE; CARNAUBAL; Interior; 17; 47,37
+18040420; Jadlog; SE; SP; SOROCABA; Capital; 2; 12,51
+60192022; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+17502020; Jadlog; SE; SP; MARILIA; Capital; 2; 12,51
+90040192; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+65054840; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+95913198; Jadlog; S; RS; LAJEADO; Capital; 3; 12,83
+31015172; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+30240030; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+12246005; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+9951320; Jadlog; SE; SP; DIADEMA; Capital; 2; 12,51
+1228200; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+21931300; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+60310400; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+88107001; Jadlog; S; SC; SAO JOSE; Capital; 2; 12,44
+3052040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+78800000; Jadlog; CO; MT; POXOREU; Interior; 14; 46,91
+96203900; Jadlog; S; RS; RIO GRANDE; Capital; 3; 12,83
+86020060; Jadlog; S; PR; LONDRINA; Capital; 2; 12,51
+60813805; Jadlog; NE; CE; FORTALEZA; Capital; 7; 14,42
+5305001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+2402400; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13323602; Jadlog; SE; SP; SALTO; Capital; 2; 12,51
+11055240; Jadlog; SE; SP; SANTOS; Capital; 2; 12,51
+5029060; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+13075270; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+89270000; Jadlog; S; SC; GUARAMIRIM; Interior; 2; 31,86
+13025142; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+4559001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+30411230; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+62595000; Jadlog; NE; CE; CRUZ; Interior; 19; 47,37
+71625130; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+70730739; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+79093058; Jadlog; CO; MS; CAMPO GRANDE; Capital; 10; 13,55
+8310480; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+4679150; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+24230070; Jadlog; SE; RJ; NITEROI; Capital; 3; 12,51
+4004012; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4156040; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+26286110; Jadlog; SE; RJ; NOVA IGUACU; Capital; 3; 12,51
+59084250; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+3446050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+3244080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+71680376; Jadlog; CO; DF; BRASILIA; Capital; 5; 13,15
+41341540; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+8738230; Jadlog; SE; SP; MOGI DAS CRUZES; Capital; 2; 12,51
+4517050; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+76940000; Jadlog; N; RO; ROLIM DE MOURA; Interior; 20; 64,89
+40301220; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+69980000; Jadlog; N; AC; CRUZEIRO DO SUL; Interior; 25; 62,18
+12952571; Jadlog; SE; SP; ATIBAIA; Capital; 2; 12,51
+1314000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+20251140; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 3; 12,51
+12236710; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+71065310; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+12301400; Jadlog; SE; SP; JACAREI; Capital; 2; 12,51
+1258010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+5429010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70303900; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+4538080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+70757090; Jadlog; CO; DF; BRASILIA; Capital; 2; 13,15
+88015620; Jadlog; S; SC; FLORIANOPOLIS; Capital; 2; 12,44
+55870000; Jadlog; NE; PE; TIMBAUBA; Interior; 10; 46,75
+20261130; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+18610307; Jadlog; SE; SP; BOTUCATU; Capital; 2; 12,51
+71745805; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+4107022; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+12246030; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+5508030; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+28030140; Jadlog; SE; RJ; CAMPOS DOS GOYTACAZES; Capital; 3; 12,51
+4538080; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+14057070; Jadlog; SE; SP; RIBEIRAO PRETO; Capital; 2; 12,51
+66617260; Jadlog; N; PA; BELEM; Capital; 6; 13,55
+1227100; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+8223000; Jadlog; SE; SP; SAO PAULO; Interior; 3; 41,37
+70673302; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+65025030; Jadlog; NE; MA; SAO LUIS; Capital; 8; 13,55
+71660720; Jadlog; CO; DF; BRASILIA; Capital; 3; 13,15
+13040060; Jadlog; SE; SP; CAMPINAS; Capital; 2; 12,51
+62850000; Jadlog; NE; CE; CASCAVEL; Interior; 12; 47,37
+41262070; Jadlog; NE; BA; SALVADOR; Capital; 7; 13,47
+38300084; Jadlog; SE; MG; ITUIUTABA; Capital; 3; 12,51
+5416000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+45652180; Jadlog; NE; BA; ILHEUS; Capital; 8; 13,47
+24425005; Jadlog; SE; RJ; SAO GONCALO; Capital; 4; 12,51
+9860020; Jadlog; SE; SP; SAO BERNARDO DO CAMPO; Capital; 2; 12,51
+20541050; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+4117090; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+31170150; Jadlog; SE; MG; BELO HORIZONTE; Capital; 2; 12,51
+97015440; Jadlog; S; RS; SANTA MARIA; Capital; 3; 12,83
+34018050; Jadlog; SE; MG; NOVA LIMA; Capital; 3; 12,51
+12460000; Jadlog; SE; SP; CAMPOS DO JORDAO; Capital; 4; 12,51
+59082010; Jadlog; NE; RN; NATAL; Capital; 9; 14,1
+90510001; Jadlog; S; RS; PORTO ALEGRE; Capital; 2; 12,83
+1313001; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+4102010; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+7991180; Jadlog; SE; SP; FRANCISCO MORATO; Interior; 3; 41,37
+5413000; Jadlog; SE; SP; SAO PAULO; Capital; 2; 12,51
+22211230; Jadlog; SE; RJ; RIO DE JANEIRO; Capital; 2; 12,51
+12242540; Jadlog; SE; SP; SAO JOSE DOS CAMPOS; Capital; 2; 12,51
+58039190; Jadlog; NE; PB; JOAO PESSOA; Capital; 8; 14,1
+29100340; Jadlog; SE; ES; VILA VELHA; Capital; 3; 13,15
+52060290; Jadlog; NE; PE; RECIFE; Capital; 7; 13,78
+85855750; Jadlog; S; PR; FOZ DO IGUACU; Capital; 3; 12,51
