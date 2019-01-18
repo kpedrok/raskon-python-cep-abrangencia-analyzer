@@ -1,4 +1,5 @@
 # https://oefbo.taglivros.com/admin/django_oef_models/assinaturaendereco/?q=&id=&endereco_recebedor__uf=SP&status_assinatura__exact=ATIVO&data_assinatura_start=&data_assinatura_end=&data_cancelamento_start=&data_cancelamento_end=
+# -*- coding: latin-1 -*-
 import io
 import time
 
@@ -58,7 +59,7 @@ def _comparar_cep_transportadora(ceps):
 
 def gerar():
     start_time = time.time()
-    _log('Tag Livros - Ouro & Fino - Iniciando verificação de CEP por transportadora ')
+    _log('Tag Livros - Ouro & Fino - Iniciando verificcao de CEP por transportadora ')
     textfile = io.open(ARQUIVO_CEP_CSV, 'rt', newline='', encoding='utf-8')
     linhas_cep = textfile.readlines()
     _comparar_cep_transportadora(linhas_cep)
@@ -69,5 +70,4 @@ def gerar():
     _log("timer:{}min{}seg".format(minutos, segundos))
     textfile.close()
 
-
-return gerar()
+print(gerar())

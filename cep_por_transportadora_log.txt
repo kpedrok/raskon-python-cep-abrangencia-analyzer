@@ -1,1 +1,1 @@
-timer:5min48seg
+timer:5min30seg

@@ -1,0 +1,9 @@
+.idea/
+venv/
+venv27/
+venv3.7/
+venv2.7/
+Excel/
+_init_.py
+processors/zips/
+base/
