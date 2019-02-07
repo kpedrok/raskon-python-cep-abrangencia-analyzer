@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Tag Livros\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}
