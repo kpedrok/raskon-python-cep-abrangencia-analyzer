@@ -8,7 +8,7 @@ import datetime
 ARQUIVO_TRANSPORTADORA_CSV = 'input-abrangencia.csv'
 ARQUIVO_CEP_CSV = 'input-cep.csv'
 ARQUIO_RESULTADO = 'output/analise_' + str(datetime.datetime.now().strftime('%Y-%m-%d_%Hh%Mmin')) + '.csv'
-ARQUIVO_LOG = 'analise_log.txt'
+ARQUIVO_LOG = 'output/analise_log.txt'
 
 
 def _log(texto):
