@@ -21,7 +21,7 @@ def _log(texto):
 def _gerar_arquivo_de_ceps(cep_por_transportadora):
     
     retorno = open(ARQUIO_RESULTADO, "a")
-    retorno.write('{}\n'.format(cep_por_transportadora))
+    retorno.write('{}\r'.format(cep_por_transportadora))
     retorno.close()
 
 
@@ -36,36 +36,42 @@ def _comparar_cep_transportadora(ceps):
 
     for indice_cep in range(1, len(ceps)):
         cep = ceps[indice_cep]
-        cep_por_transportadora = cep.zfill(8)
+        # cep_por_transportadora = cep.zfill(8).replace('\n', '').replace('\r', '')
+        cep_por_transportadora = ""
+      
         for indice_linha_transportadora in range(1, len(linhas_transportadora)):
             try:
                 cep_transportadora = linhas_transportadora[indice_linha_transportadora].split(';')
                 tokens = [token for token in cep_transportadora]
+                transportadora = tokens[0]
                 metodo_envio = tokens[1]
                 # regiao = tokens[1]
-                # uf = tokens[2]
+                uf = tokens[2]
                 # cidade = tokens[3]
                 tarifa = tokens[6]
                 cep_inicial = tokens[4]
                 cep_final = tokens[5]
-                # prazo = tokens[7]
+                prazo = tokens[7]
                 # custo = tokens[8]
                 if int(cep_inicial) <= int(ceps[indice_cep]) <= int(
                         cep_final) and metodo_envio not in cep_por_transportadora:
-                    cep_por_transportadora += ("; {}".format(metodo_envio)
+                    # cep_por_transportadora = cep_por_transportadora.replace('\n', '').replace('\r', '')
+                    cep_por_transportadora += '\n'+(";{}".format(ceps[indice_cep])
+                                                +";{}".format(transportadora)
+                                                +";{}".format(metodo_envio) 
                                             #    + "; {}".format(regiao)
-                                            #    + "; {}".format(uf)
+                                                + ";{}".format(uf)
                                             #    + "; {}".format(cidade)
-                                               + "; {}".format(tarifa)
-                                            #    + "; {}".format(prazo)
+                                               + ";{}".format(tarifa)
+                                               + "; {}".format(prazo)
                                             #    + "; {}".format(custo)
-                                               )
+                                               ).replace('\n', '').replace('\r', '')
             except Exception as e:
                 mensagem_erro = "Erro na linha {}; {}".format(
                     indice_linha_transportadora, e)
                 _log(mensagem_erro)
         _gerar_arquivo_de_ceps(
-            cep_por_transportadora.replace('\n', '').replace('\r', ''))
+            cep_por_transportadora)
 
 
 def gerar():
