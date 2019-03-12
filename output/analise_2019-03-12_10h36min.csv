@@ -1,0 +1,456 @@
+
+;91430347;Correios;Impresso Econômico;RS;Módico; 8
+;91430347;Speedlog;Speedlog Standard;RS;Capital; 4
+;91430347;Dialogo Logistica;Dialogo Standard;RS;CAPITAL; 3
+;91430347;Jadlog;Jadlog Rodoviario;RS;Capital; 2
+;91430347;Transfolha;Transfolha Terrestre;RS;CAP; 4
+;91430347;Flash Courier;Flash Courier PAC;RS;Capital; 7
+;91430347;LoggiN;Loggi StandardN;RS;RS Zona 1; 3
+;74350560;Correios;Impresso Econômico;GO;Módico; 11
+;74350560;Flash Courier;Flash Courier PAC;GO;Capital; 7
+;74350560;Nowlog;Nowlog Standard;GO;CAP.01; 7
+;74350560;Speedlog;Speedlog Standard;GO;Capital; 5
+;74350560;Transfolha;Transfolha Terrestre;GO;CAP; 4
+;74350560;Jadlog;Jadlog Rodoviario;GO;Capital; 2
+;74350560;LoggiN;Loggi StandardN;GO;GO Zona 1; 3
+;70862020;Correios;Impresso Econômico;DF;Módico; 11
+;70862020;Nowlog;Nowlog Standard;DF;CAP.01; 7
+;70862020;Speedlog;Speedlog Standard;DF;Capital; 5
+;70862020;Flash Courier;Flash Courier PAC;DF;Capital; 7
+;70862020;Jadlog;Jadlog Rodoviario;DF;Capital; 2
+;70862020;Transfolha;Transfolha Terrestre;DF;INT; 3
+;70862020;LoggiN;Loggi StandardN;DF;DF Zona 1; 3
+;71503505;Correios;Impresso Econômico;DF;Módico; 11
+;71503505;Nowlog;Nowlog Standard;DF;CAP.01; 7
+;71503505;Speedlog;Speedlog Standard;DF;Capital; 5
+;71503505;Transfolha;Transfolha Terrestre;DF;INT; 3
+;71503505;Flash Courier;Flash Courier PAC;DF;Interior; 7
+;71503505;Jadlog;Jadlog Rodoviario;DF;Capital; 3
+;71503505;LoggiN;Loggi StandardN;DF;DF Zona 1; 3
+;74860625;Correios;Impresso Econômico;GO;Módico; 11
+;74860625;Flash Courier;Flash Courier PAC;GO;Capital; 7
+;74860625;Nowlog;Nowlog Standard;GO;CAP.01; 7
+;74860625;Speedlog;Speedlog Standard;GO;Capital; 5
+;74860625;Transfolha;Transfolha Terrestre;GO;CAP; 4
+;74860625;Jadlog;Jadlog Rodoviario;GO;Capital; 2
+;74860625;LoggiN;Loggi StandardN;GO;GO Zona 1; 3
+;74305440;Correios;Impresso Econômico;GO;Módico; 11
+;74305440;Flash Courier;Flash Courier PAC;GO;Capital; 7
+;74305440;Nowlog;Nowlog Standard;GO;CAP.01; 7
+;74305440;Speedlog;Speedlog Standard;GO;Capital; 5
+;74305440;Transfolha;Transfolha Terrestre;GO;CAP; 4
+;74305440;Jadlog;Jadlog Rodoviario;GO;Capital; 2
+;74305440;LoggiN;Loggi StandardN;GO;GO Zona 1; 3
+;70733080;Correios;Impresso Econômico;DF;Módico; 11
+;70733080;Nowlog;Nowlog Standard;DF;CAP.01; 7
+;70733080;Speedlog;Speedlog Standard;DF;Capital; 5
+;70733080;Flash Courier;Flash Courier PAC;DF;Capital; 7
+;70733080;Jadlog;Jadlog Rodoviario;DF;Capital; 2
+;70733080;Transfolha;Transfolha Terrestre;DF;INT; 3
+;70733080;LoggiN;Loggi StandardN;DF;DF Zona 1; 3
+;70675814;Correios;Impresso Econômico;DF;Módico; 11
+;70675814;Nowlog;Nowlog Standard;DF;CAP.01; 7
+;70675814;Speedlog;Speedlog Standard;DF;Capital; 5
+;70675814;Flash Courier;Flash Courier PAC;DF;Capital; 7
+;70675814;Jadlog;Jadlog Rodoviario;DF;Capital; 3
+;70675814;Transfolha;Transfolha Terrestre;DF;INT; 3
+;70675814;LoggiN;Loggi StandardN;DF;DF Zona 1; 3
+;70874030;Correios;Impresso Econômico;DF;Módico; 11
+;70874030;Nowlog;Nowlog Standard;DF;CAP.01; 7
+;70874030;Speedlog;Speedlog Standard;DF;Capital; 5
+;70874030;Flash Courier;Flash Courier PAC;DF;Capital; 7
+;70874030;Jadlog;Jadlog Rodoviario;DF;Capital; 2
+;70874030;Transfolha;Transfolha Terrestre;DF;INT; 3
+;70874030;LoggiN;Loggi StandardN;DF;DF Zona 1; 3
+;74672500;Correios;Impresso Econômico;GO;Módico; 11
+;74672500;Flash Courier;Flash Courier PAC;GO;Capital; 7
+;74672500;Nowlog;Nowlog Standard;GO;CAP.01; 7
+;74672500;Speedlog;Speedlog Standard;GO;Capital; 5
+;74672500;Transfolha;Transfolha Terrestre;GO;CAP; 4
+;74672500;Jadlog;Jadlog Rodoviario;GO;Capital; 2
+;74672500;LoggiN;Loggi StandardN;GO;GO Zona 1; 3
+;13024091;Correios;Impresso Econômico;SP;Módico; 9
+;13024091;Transfolha;Transfolha Terrestre;SP;INT 1; 3
+;13024091;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;13024091;Speedlog;Speedlog Standard;SP;Interior; 3
+;13024091;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;13024091;LoggiN;Loggi StandardN;SP;Campinas Zona 1; 1
+;14883400;Correios;Impresso Econômico;SP;Módico; 9
+;14883400;Speedlog;Speedlog Standard;SP;Interior; 6
+;14883400;Transfolha;Transfolha Terrestre;SP;INT 2; 3
+;14883400;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;12912590;Correios;Impresso Econômico;SP;Módico; 9
+;12912590;Speedlog;Speedlog Standard;SP;Interior; 3
+;12912590;Transfolha;Transfolha Terrestre;SP;INT 1; 3
+;12912590;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;13343358;Correios;Impresso Econômico;SP;Módico; 9
+;13343358;Speedlog;Speedlog Standard;SP;Interior; 3
+;13343358;Transfolha;Transfolha Terrestre;SP;INT 1; 2
+;13343358;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;13343358;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;13220025;Correios;Impresso Econômico;SP;Módico; 9
+;13220025;Speedlog;Speedlog Standard;SP;Interior; 4
+;13220025;Transfolha;Transfolha Terrestre;SP;INT 2; 4
+;13220025;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;14061250;Correios;Impresso Econômico;SP;Módico; 9
+;14061250;Speedlog;Speedlog Standard;SP;Interior; 5
+;14061250;Transfolha;Transfolha Terrestre;SP;INT 1; 3
+;14061250;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;14061250;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;14061250;LoggiN;Loggi StandardN;SP;Ribeirão Zona 1; 1
+;13330060;Correios;Impresso Econômico;SP;Módico; 9
+;13330060;Speedlog;Speedlog Standard;SP;Interior; 3
+;13330060;Transfolha;Transfolha Terrestre;SP;INT 1; 2
+;13330060;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;13330060;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;14801190;Correios;Impresso Econômico;SP;Módico; 9
+;14801190;Speedlog;Speedlog Standard;SP;Interior; 5
+;14801190;Transfolha;Transfolha Terrestre;SP;INT 1; 3
+;14801190;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;12061470;Correios;Impresso Econômico;SP;Módico; 9
+;12061470;Transfolha;Transfolha Terrestre;SP;INT 2; 4
+;12061470;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;12061470;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;12061470;Speedlog;Speedlog Standard;SP;Interior; 4
+;18603050;Correios;Impresso Econômico;SP;Módico; 9
+;18603050;Speedlog;Speedlog Standard;SP;Interior; 7
+;18603050;Transfolha;Transfolha Terrestre;SP;INT 1; 3
+;18603050;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;24445000;Correios;Impresso Econômico;RJ;Módico; 10
+;24445000;Flash Courier;Flash Courier PAC;RJ;Interior; 7
+;24445000;Speedlog;Speedlog Standard;RJ;Capital; 3
+;24445000;Jadlog;Jadlog Rodoviario;RJ;Capital; 4
+;21610290;Correios;Impresso Econômico;RJ;Módico; 10
+;21610290;Shippify;Shippify D+3;RJ;Capital; 3
+;21610290;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;21610290;Speedlog;Speedlog Standard;RJ;Capital; 4
+;9790260;Correios;Impresso Econômico;SP;Módico; 9
+;9790260;Speedlog;Speedlog Standard;SP;Capital; 2
+;9790260;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;9790260;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;20720180;Correios;Impresso Econômico;RJ;Módico; 10
+;20720180;Shippify;Shippify D+3;RJ;Capital; 3
+;20720180;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20720180;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;20720180;Speedlog;Speedlog Standard;RJ;Capital; 4
+;20720180;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;4857000;Correios;Impresso Econômico;SP;Módico; 9
+;4857000;Jadlog;Jadlog Rodoviario;SP;Interior; 3
+;4857000;Speedlog;Speedlog Standard;SP;Capital; 3
+;4857000;Flash Courier;Flash Courier PAC;SP;Capital; 7
+;20720295;Correios;Impresso Econômico;RJ;Módico; 10
+;20720295;Shippify;Shippify D+3;RJ;Capital; 3
+;20720295;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20720295;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;20720295;Speedlog;Speedlog Standard;RJ;Capital; 4
+;20720295;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;20780060;Correios;Impresso Econômico;RJ;Módico; 10
+;20780060;Shippify;Shippify D+3;RJ;Capital; 3
+;20780060;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20780060;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;20780060;Speedlog;Speedlog Standard;RJ;Capital; 4
+;20780060;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;6706040;Correios;Impresso Econômico;SP;Módico; 9
+;6706040;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;6706040;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;6706040;Speedlog;Speedlog Standard;SP;Capital; 3
+;6706040;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;22081010;Correios;Impresso Econômico;RJ;Módico; 10
+;22081010;Shippify;Shippify D+3;RJ;Capital; 3
+;22081010;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;22081010;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;22081010;Speedlog;Speedlog Standard;RJ;Capital; 4
+;22081010;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;22081010;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;24240170;Correios;Impresso Econômico;RJ;Módico; 10
+;24240170;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;24240170;Jadlog;Jadlog Rodoviario;RJ;Capital; 3
+;24240170;Shippify;Shippify D+3;RJ;Capital; 3
+;24240170;Speedlog;Speedlog Standard;RJ;Capital; 4
+;24240170;Flash Courier;Flash Courier PAC;RJ;Interior; 7
+;13295000;Correios;Impresso Econômico;SP;Módico; 9
+;13295000;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;13295000;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;13295000;Speedlog;Speedlog Standard;SP;Interior; 4
+;13295000;Transfolha;Transfolha Terrestre;SP;INT 2; 4
+;20510060;Correios;Impresso Econômico;RJ;Módico; 10
+;20510060;Shippify;Shippify D+3;RJ;Capital; 3
+;20510060;Speedlog;Speedlog Standard;RJ;Capital; 4
+;20510060;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;20510060;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;20510060;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20510060;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;24727214;Correios;Impresso Econômico;RJ;Módico; 10
+;24727214;Speedlog;Speedlog Standard;RJ;Capital; 3
+;24727214;Flash Courier;Flash Courier PAC;RJ;Interior; 7
+;24727214;Jadlog;Jadlog Rodoviario;RJ;Interior; 4
+;8675040;Correios;Impresso Econômico;SP;Módico; 9
+;8675040;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;8675040;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;8675040;Transfolha;Transfolha Terrestre;SP;INT 3; 4
+;8675040;Speedlog;Speedlog Standard;SP;Interior; 3
+;24717070;Correios;Impresso Econômico;RJ;Módico; 10
+;24717070;Speedlog;Speedlog Standard;RJ;Capital; 3
+;24717070;Flash Courier;Flash Courier PAC;RJ;Interior; 7
+;24717070;Jadlog;Jadlog Rodoviario;RJ;Interior; 4
+;22081042;Correios;Impresso Econômico;RJ;Módico; 10
+;22081042;Shippify;Shippify D+3;RJ;Capital; 3
+;22081042;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;22081042;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;22081042;Speedlog;Speedlog Standard;RJ;Capital; 4
+;22081042;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;22081042;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;20510060;Correios;Impresso Econômico;RJ;Módico; 10
+;20510060;Shippify;Shippify D+3;RJ;Capital; 3
+;20510060;Speedlog;Speedlog Standard;RJ;Capital; 4
+;20510060;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;20510060;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;20510060;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20510060;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;8790660;Correios;Impresso Econômico;SP;Módico; 9
+;8790660;Flash Courier;Flash Courier PAC;SP;Interior; 7
+;8790660;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;8790660;Speedlog;Speedlog Standard;SP;Interior; 3
+;8790660;Transfolha;Transfolha Terrestre;SP;INT 3; 4
+;20540001;Correios;Impresso Econômico;RJ;Módico; 10
+;20540001;Shippify;Shippify D+3;RJ;Capital; 3
+;20540001;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;20540001;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20540001;Speedlog;Speedlog Standard;RJ;Capital; 3
+;20540001;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;20540001;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;22010110;Correios;Impresso Econômico;RJ;Módico; 10
+;22010110;Shippify;Shippify D+3;RJ;Capital; 3
+;22010110;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;22010110;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;22010110;Flash Courier;Flash Courier PAC;RJ;Capital; 7
+;22010110;Speedlog;Speedlog Standard;RJ;Capital; 4
+;22010110;LoggiN;Loggi StandardN;RJ;RJ Zona 1; 2
+;31275030;Correios;Impresso Econômico;MG;Módico; 10
+;31275030;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;31275030;Shippify;Shippify D+3;MG;Capital; 3
+;31275030;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;31275030;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;31275030;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;31275030;Speedlog;Speedlog Standard;MG;Capital; 3
+;31275030;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30380342;Correios;Impresso Econômico;MG;Módico; 10
+;30380342;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30380342;Shippify;Shippify D+3;MG;Capital; 3
+;30380342;Speedlog;Speedlog Standard;MG;Capital; 3
+;30380342;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30380342;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30380342;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30380342;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;31060470;Correios;Impresso Econômico;MG;Módico; 10
+;31060470;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;31060470;Shippify;Shippify D+3;MG;Capital; 3
+;31060470;Speedlog;Speedlog Standard;MG;Capital; 3
+;31060470;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;31060470;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;31060470;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;31060470;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30360310;Correios;Impresso Econômico;MG;Módico; 10
+;30360310;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30360310;Shippify;Shippify D+3;MG;Capital; 3
+;30360310;Speedlog;Speedlog Standard;MG;Capital; 3
+;30360310;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30360310;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30360310;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30360310;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30190005;Correios;Impresso Econômico;MG;Módico; 10
+;30190005;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30190005;Shippify;Shippify D+3;MG;Capital; 3
+;30190005;Speedlog;Speedlog Standard;MG;Capital; 3
+;30190005;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30190005;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30190005;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30190005;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30360410;Correios;Impresso Econômico;MG;Módico; 10
+;30360410;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30360410;Shippify;Shippify D+3;MG;Capital; 3
+;30360410;Speedlog;Speedlog Standard;MG;Capital; 3
+;30360410;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30360410;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30360410;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30360410;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30493175;Correios;Impresso Econômico;MG;Módico; 10
+;30493175;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30493175;Shippify;Shippify D+3;MG;Capital; 3
+;30493175;Speedlog;Speedlog Standard;MG;Capital; 3
+;30493175;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30493175;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30493175;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30493175;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30350060;Correios;Impresso Econômico;MG;Módico; 10
+;30350060;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30350060;Shippify;Shippify D+3;MG;Capital; 3
+;30350060;Speedlog;Speedlog Standard;MG;Capital; 3
+;30350060;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30350060;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30350060;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30350060;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;31230090;Correios;Impresso Econômico;MG;Módico; 10
+;31230090;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;31230090;Shippify;Shippify D+3;MG;Capital; 3
+;31230090;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;31230090;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;31230090;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;31230090;Speedlog;Speedlog Standard;MG;Capital; 3
+;31230090;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30130141;Correios;Impresso Econômico;MG;Módico; 10
+;30130141;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30130141;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30130141;Shippify;Shippify D+3;MG;Capital; 3
+;30130141;Speedlog;Speedlog Standard;MG;Capital; 3
+;30130141;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30130141;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30130141;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30421125;Correios;Impresso Econômico;MG;Módico; 10
+;30421125;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30421125;Shippify;Shippify D+3;MG;Capital; 3
+;30421125;Speedlog;Speedlog Standard;MG;Capital; 3
+;30421125;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30421125;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30421125;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30421125;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30285010;Correios;Impresso Econômico;MG;Módico; 10
+;30285010;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30285010;Shippify;Shippify D+3;MG;Capital; 3
+;30285010;Speedlog;Speedlog Standard;MG;Capital; 3
+;30285010;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30285010;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30285010;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30285010;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30180120;Correios;Impresso Econômico;MG;Módico; 10
+;30180120;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30180120;Shippify;Shippify D+3;MG;Capital; 3
+;30180120;Speedlog;Speedlog Standard;MG;Capital; 3
+;30180120;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30180120;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30180120;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30180120;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;31110272;Correios;Impresso Econômico;MG;Módico; 10
+;31110272;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;31110272;Shippify;Shippify D+3;MG;Capital; 3
+;31110272;Speedlog;Speedlog Standard;MG;Capital; 3
+;31110272;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;31110272;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;31110272;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;31110272;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30441011;Correios;Impresso Econômico;MG;Módico; 10
+;30441011;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30441011;Shippify;Shippify D+3;MG;Capital; 3
+;30441011;Speedlog;Speedlog Standard;MG;Capital; 3
+;30441011;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30441011;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30441011;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30441011;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30130151;Correios;Impresso Econômico;MG;Módico; 10
+;30130151;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30130151;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30130151;Shippify;Shippify D+3;MG;Capital; 3
+;30130151;Speedlog;Speedlog Standard;MG;Capital; 3
+;30130151;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30130151;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30130151;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30441004;Correios;Impresso Econômico;MG;Módico; 10
+;30441004;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30441004;Shippify;Shippify D+3;MG;Capital; 3
+;30441004;Speedlog;Speedlog Standard;MG;Capital; 3
+;30441004;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30441004;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30441004;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30441004;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30160011;Correios;Impresso Econômico;MG;Módico; 10
+;30160011;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30160011;Shippify;Shippify D+3;MG;Capital; 3
+;30160011;Speedlog;Speedlog Standard;MG;Capital; 3
+;30160011;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30160011;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30160011;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30160011;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30140110;Correios;Impresso Econômico;MG;Módico; 10
+;30140110;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30140110;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30140110;Shippify;Shippify D+3;MG;Capital; 3
+;30140110;Speedlog;Speedlog Standard;MG;Capital; 3
+;30140110;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30140110;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30140110;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;30150240;Correios;Impresso Econômico;MG;Módico; 10
+;30150240;Nowlog;Nowlog Standard;MG;CAP.01; 6
+;30150240;Shippify;Shippify D+3;MG;Capital; 3
+;30150240;Speedlog;Speedlog Standard;MG;Capital; 3
+;30150240;Transfolha;Transfolha Terrestre;MG;CAP; 3
+;30150240;Jadlog;Jadlog Rodoviario;MG;Capital; 2
+;30150240;Flash Courier;Flash Courier PAC;MG;Capital; 7
+;30150240;LoggiN;Loggi StandardN;MG;MG Zona 1; 2
+;47810020;Correios;Impresso Econômico;BA;Módico; 11
+;47810020;Nowlog;Nowlog Standard;BA;INT.01; 11
+;47810020;Speedlog;Speedlog Standard;BA;Interior; 9
+;47810020;Jadlog;Jadlog Rodoviario;BA;Capital; 10
+;57030003;Correios;Impresso Econômico;AL;Módico; 14
+;57030003;Nowlog;Nowlog Standard;AL;CAP.01; 8
+;57030003;Flash Courier;Flash Courier PAC;AL;Capital; 7
+;57030003;Jadlog;Jadlog Rodoviario;AL;Capital; 8
+;57030003;Speedlog;Speedlog Standard;AL;Capital; 8
+;41680111;Correios;Impresso Econômico;BA;Módico; 11
+;41680111;Nowlog;Nowlog Standard;BA;CAP.01; 7
+;41680111;Speedlog;Speedlog Standard;BA;Capital; 4
+;41680111;Jadlog;Jadlog Rodoviario;BA;Capital; 7
+;41680111;Flash Courier;Flash Courier PAC;BA;Capital; 7
+;41680111;LoggiN;Loggi StandardN;BA;BA Zona 1; 3
+;40150480;Correios;Impresso Econômico;BA;Módico; 11
+;40150480;Flash Courier;Flash Courier PAC;BA;Capital; 7
+;40150480;Nowlog;Nowlog Standard;BA;CAP.01; 7
+;40150480;Speedlog;Speedlog Standard;BA;Capital; 4
+;40150480;Jadlog;Jadlog Rodoviario;BA;Capital; 7
+;40150480;LoggiN;Loggi StandardN;BA;BA Zona 1; 3
+;56302180;Correios;Impresso Econômico;PE;Módico; 10
+;56302180;Nowlog;Nowlog Standard;PE;INT.01; 11
+;56302180;Speedlog;Speedlog Standard;PE;Interior; 8
+;56302180;Jadlog;Jadlog Rodoviario;PE;Capital; 7
+;57035250;Correios;Impresso Econômico;AL;Módico; 14
+;57035250;Nowlog;Nowlog Standard;AL;CAP.01; 8
+;57035250;Flash Courier;Flash Courier PAC;AL;Capital; 7
+;57035250;Jadlog;Jadlog Rodoviario;AL;Capital; 8
+;57035250;Speedlog;Speedlog Standard;AL;Capital; 8
+;60115170;Correios;Impresso Econômico;CE;Módico; 12
+;60115170;Flash Courier;Flash Courier PAC;CE;Capital; 7
+;60115170;Nowlog;Nowlog Standard;CE;CAP.01; 8
+;60115170;Jadlog;Jadlog Rodoviario;CE;Capital; 7
+;60115170;Speedlog;Speedlog Standard;CE;Capital; 6
+;60115170;LoggiN;Loggi StandardN;CE;CE Zona 1; 3
+;47806014;Correios;Impresso Econômico;BA;Módico; 11
+;47806014;Nowlog;Nowlog Standard;BA;INT.01; 11
+;47806014;Speedlog;Speedlog Standard;BA;Interior; 9
+;47806014;Jadlog;Jadlog Rodoviario;BA;Capital; 10
+;61932600;Correios;Impresso Econômico;CE;Módico; 12
+;61932600;Flash Courier;Flash Courier PAC;CE;Interior; 7
+;61932600;Nowlog;Nowlog Standard;CE;INT.01; 9
+;61932600;Speedlog;Speedlog Standard;CE;Interior; 8
+;61932600;Jadlog;Jadlog Rodoviario;CE;Capital; 9
+;49030210;Correios;Impresso Econômico;SE;Módico; 11
+;49030210;Nowlog;Nowlog Standard;SE;CAP.01; 8
+;49030210;Speedlog;Speedlog Standard;SE;Capital; 8
+;49030210;Flash Courier;Flash Courier PAC;SE;Interior; 7
+;49030210;Jadlog;Jadlog Rodoviario;SE;Capital; 8
+;57061410;Correios;Impresso Econômico;AL;Módico; 14
+;57061410;Nowlog;Nowlog Standard;AL;CAP.01; 8
+;57061410;Flash Courier;Flash Courier PAC;AL;Capital; 7
+;57061410;Jadlog;Jadlog Rodoviario;AL;Capital; 8
+;57061410;Speedlog;Speedlog Standard;AL;Capital; 8
+;60875575;Correios;Impresso Econômico;CE;Módico; 12
+;60875575;Nowlog;Nowlog Standard;CE;CAP.01; 8
+;60875575;Jadlog;Jadlog Rodoviario;CE;Capital; 7
+;60875575;Speedlog;Speedlog Standard;CE;Capital; 6
+;60875575;Flash Courier;Flash Courier PAC;CE;Capital; 7
+;64000020;Correios;Impresso Econômico;PI;Módico; 12
+;64000020;Nowlog;Nowlog Standard;PI;CAP.01; 8
+;64000020;Speedlog;Speedlog Standard;PI;Capital; 8
+;64000020;Jadlog;Jadlog Rodoviario;PI;Capital; 9
+;59605500;Correios;Impresso Econômico;RN;Módico; 12
+;59605500;Speedlog;Speedlog Standard;RN;Interior; 8
+;59605500;Jadlog;Jadlog Rodoviario;RN;Capital; 12
+;59605500;Nowlog;Nowlog Standard;RN;INT.01; 9

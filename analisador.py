@@ -36,6 +36,7 @@ def _comparar_cep_transportadora(ceps):
 
     for indice_cep in range(1, len(ceps)):
         cep = ceps[indice_cep]
+        print(str(indice_cep) + " - " + cep.replace('\n', '').replace('\r', ''))
         # cep_por_transportadora = cep.zfill(8).replace('\n', '').replace('\r', '')
         cep_por_transportadora = ""
       
@@ -77,7 +78,7 @@ def _comparar_cep_transportadora(ceps):
 def gerar():
     
     start_time = time.time()
-    _log('Tag Livros - Ouro & Fino - Iniciando verificcao de CEP por transportadora ')
+    _log('Tag Livros - Ouro & Fino - Iniciando verificacao de CEP por transportadora ')
     textfile = io.open(ARQUIVO_CEP_CSV, 'rt', newline='', encoding='utf-8')
     linhas_cep = textfile.readlines()
     _comparar_cep_transportadora(linhas_cep)
