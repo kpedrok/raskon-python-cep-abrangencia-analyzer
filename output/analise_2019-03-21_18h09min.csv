@@ -1,0 +1,96 @@
+
+;41830070;Correios;Impresso Econômico;BA;Módico; 11
+;41830070;GolLog;GolLog DOC;NA;DOC; 2
+;41830070;Jadlog;Jadlog Rodoviario;BA;Capital; 7
+;41830070;Loggi;Loggi Standard;BA;BA Zona 1; 3
+;41830070;Nowlog;Nowlog Standard;BA;CAP.01; 4
+;50721290;Correios;Impresso Econômico;PE;Módico; 10
+;50721290;GolLog;GolLog DOC;NA;DOC; 2
+;50721290;Jadlog;Jadlog Rodoviario;PE;Capital; 7
+;50721290;Loggi;Loggi Standard;PE;PE Zona 1; 3
+;50721290;Nowlog;Nowlog Standard;PE;CAP.01; 5
+;48080300;Correios;Impresso Econômico;BA;Módico; 11
+;48080300;Jadlog;Jadlog Rodoviario;BA;Interior; 9
+;48080300;Nowlog;Nowlog Standard;BA;INT.01; 8
+;59073112;Correios;Impresso Econômico;RN;Módico; 12
+;59073112;GolLog;GolLog DOC;NA;DOC; 2
+;59073112;Jadlog;Jadlog Rodoviario;RN;Capital; 9
+;59073112;Nowlog;Nowlog Standard;RN;CAP.01; 5
+;65110000;Correios;Impresso Econômico;MA;Módico; 15
+;65110000;Jadlog;Jadlog Rodoviario;MA;Capital; 14
+;65110000;Nowlog;Nowlog Standard;MA;INT.01; 7
+;50741470;Correios;Impresso Econômico;PE;Módico; 10
+;50741470;GolLog;GolLog DOC;NA;DOC; 2
+;50741470;Jadlog;Jadlog Rodoviario;PE;Capital; 7
+;50741470;Loggi;Loggi Standard;PE;PE Zona 1; 3
+;50741470;Nowlog;Nowlog Standard;PE;CAP.01; 5
+;60440550;Correios;Impresso Econômico;CE;Módico; 12
+;60440550;GolLog;GolLog DOC;NA;DOC; 2
+;60440550;Jadlog;Jadlog Rodoviario;CE;Capital; 7
+;60440550;Nowlog;Nowlog Standard;CE;CAP.01; 5
+;65200000;Correios;Impresso Econômico;MA;Módico; 15
+;65200000;Jadlog;Jadlog Rodoviario;MA;Interior; 15
+;64027330;Correios;Impresso Econômico;PI;Módico; 12
+;64027330;GolLog;GolLog DOC;NA;DOC; 3
+;64027330;Jadlog;Jadlog Rodoviario;PI;Capital; 9
+;64027330;Nowlog;Nowlog Standard;PI;CAP.01; 5
+;45051310;Correios;Impresso Econômico;BA;Módico; 11
+;45051310;Jadlog;Jadlog Rodoviario;BA;Capital; 8
+;45051310;Nowlog;Nowlog Standard;BA;INT.01; 5
+;53427410;Correios;Impresso Econômico;PE;Módico; 10
+;53427410;Jadlog;Jadlog Rodoviario;PE;Capital; 7
+;53427410;Nowlog;Nowlog Standard;PE;INT.01; 6
+;46450000;Correios;Impresso Econômico;BA;Módico; 11
+;46450000;Jadlog;Jadlog Rodoviario;BA;Interior; 10
+;60840385;Correios;Impresso Econômico;CE;Módico; 12
+;60840385;GolLog;GolLog DOC;NA;DOC; 2
+;60840385;Jadlog;Jadlog Rodoviario;CE;Capital; 7
+;60840385;Loggi;Loggi Standard;CE;CE Zona 1; 3
+;60840385;Nowlog;Nowlog Standard;CE;CAP.01; 5
+;59151433;Correios;Impresso Econômico;RN;Módico; 12
+;59151433;GolLog;GolLog DOC;NA;DOC; 2
+;59151433;Jadlog;Jadlog Rodoviario;RN;Capital; 10
+;59151433;Nowlog;Nowlog Standard;RN;INT.01; 6
+;45821062;Correios;Impresso Econômico;BA;Módico; 11
+;45821062;Jadlog;Jadlog Rodoviario;BA;Capital; 8
+;45821062;Nowlog;Nowlog Standard;BA;INT.01; 8
+;60025100;Correios;Impresso Econômico;CE;Módico; 12
+;60025100;GolLog;GolLog DOC;NA;DOC; 2
+;60025100;Jadlog;Jadlog Rodoviario;CE;Capital; 7
+;60025100;Loggi;Loggi Standard;CE;CE Zona 1; 3
+;60025100;Nowlog;Nowlog Standard;CE;CAP.01; 5
+;52061200;Correios;Impresso Econômico;PE;Módico; 10
+;52061200;GolLog;GolLog DOC;NA;DOC; 2
+;52061200;Jadlog;Jadlog Rodoviario;PE;Capital; 7
+;52061200;Loggi;Loggi Standard;PE;PE Zona 1; 3
+;52061200;Nowlog;Nowlog Standard;PE;CAP.01; 5
+;60115000;Correios;Impresso Econômico;CE;Módico; 12
+;60115000;GolLog;GolLog DOC;NA;DOC; 2
+;60115000;Jadlog;Jadlog Rodoviario;CE;Capital; 7
+;60115000;Loggi;Loggi Standard;CE;CE Zona 1; 3
+;60115000;Nowlog;Nowlog Standard;CE;CAP.01; 5
+;44075409;Correios;Impresso Econômico;BA;Módico; 11
+;44075409;Jadlog;Jadlog Rodoviario;BA;Capital; 8
+;44075409;Nowlog;Nowlog Standard;BA;INT.01; 6
+;49020480;Correios;Impresso Econômico;SE;Módico; 11
+;49020480;GolLog;GolLog DOC;NA;DOC; 2
+;49020480;Jadlog;Jadlog Rodoviario;SE;Capital; 8
+;49020480;Nowlog;Nowlog Standard;SE;CAP.01; 5
+;51130180;Correios;Impresso Econômico;PE;Módico; 10
+;51130180;GolLog;GolLog DOC;NA;DOC; 2
+;51130180;Jadlog;Jadlog Rodoviario;PE;Capital; 7
+;51130180;Loggi;Loggi Standard;PE;PE Zona 1; 3
+;51130180;Nowlog;Nowlog Standard;PE;CAP.01; 5
+;65460000;Correios;Impresso Econômico;MA;Módico; 15
+;65460000;Jadlog;Jadlog Rodoviario;MA;Interior; 13
+;65480000;Correios;Impresso Econômico;MA;Módico; 15
+;65480000;Jadlog;Jadlog Rodoviario;MA;Interior; 16
+;48903530;Correios;Impresso Econômico;BA;Módico; 11
+;48903530;Jadlog;Jadlog Rodoviario;BA;Capital; 9
+;48903530;Nowlog;Nowlog Standard;BA;INT.01; 8
+;57312445;Correios;Impresso Econômico;AL;Módico; 14
+;57312445;Jadlog;Jadlog Rodoviario;AL;Capital; 9
+;57037570;Correios;Impresso Econômico;AL;Módico; 14
+;57037570;GolLog;GolLog DOC;NA;DOC; 2
+;57037570;Jadlog;Jadlog Rodoviario;AL;Capital; 8
+;57037570;Nowlog;Nowlog Standard;AL;CAP.01; 5

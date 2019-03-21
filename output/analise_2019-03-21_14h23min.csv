@@ -1,0 +1,95 @@
+
+;4464200;Correios;Impresso Econômico;SP;Módico; 9
+;4464200;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;4464200;Speedlog;Speedlog Standard;SP;Capital; 2
+;4464200;Nowlog;Nowlog Standard;SP;CAP.01; 4
+;4464200;GolLog;GolLog DOC;NA;DOC; 3
+;8470210;Correios;Impresso Econômico;SP;Módico; 9
+;8470210;Jadlog;Jadlog Rodoviario;SP;Interior; 3
+;8470210;Speedlog;Speedlog Standard;SP;Capital; 3
+;8470210;Nowlog;Nowlog Standard;SP;CAP.01; 4
+;4464200;Correios;Impresso Econômico;SP;Módico; 9
+;4464200;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;4464200;Speedlog;Speedlog Standard;SP;Capital; 2
+;4464200;Nowlog;Nowlog Standard;SP;CAP.01; 4
+;4464200;GolLog;GolLog DOC;NA;DOC; 3
+;6714285;Correios;Impresso Econômico;SP;Módico; 9
+;6714285;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;6714285;Speedlog;Speedlog Standard;SP;Capital; 3
+;6714285;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;6714285;Nowlog;Nowlog Standard;SP;CAP.02; 5
+;6714285;GolLog;GolLog DOC;NA;DOC; 3
+;6714285;Correios;Impresso Econômico;SP;Módico; 9
+;6714285;Jadlog;Jadlog Rodoviario;SP;Capital; 2
+;6714285;Speedlog;Speedlog Standard;SP;Capital; 3
+;6714285;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;6714285;Nowlog;Nowlog Standard;SP;CAP.02; 5
+;6714285;GolLog;GolLog DOC;NA;DOC; 3
+;6528070;Correios;Impresso Econômico;SP;Módico; 9
+;6528070;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;6528070;Loggi;Loggi Standard;SP;SP Zona 2; 1
+;6528070;Speedlog;Speedlog Standard;SP;Capital; 2
+;6528070;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;6528070;Nowlog;Nowlog Standard;SP;CAP.02; 5
+;6528070;GolLog;GolLog DOC;NA;DOC; 4
+;4824020;Correios;Impresso Econômico;SP;Módico; 9
+;4824020;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;4824020;Loggi;Loggi Standard;SP;SP Zona 1; 1
+;4824020;Speedlog;Speedlog Standard;SP;Capital; 3
+;4824020;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;4824020;Nowlog;Nowlog Standard;SP;CAP.01; 4
+;6528070;Correios;Impresso Econômico;SP;Módico; 9
+;6528070;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;6528070;Loggi;Loggi Standard;SP;SP Zona 2; 1
+;6528070;Speedlog;Speedlog Standard;SP;Capital; 2
+;6528070;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;6528070;Nowlog;Nowlog Standard;SP;CAP.02; 5
+;6528070;GolLog;GolLog DOC;NA;DOC; 4
+;4824020;Correios;Impresso Econômico;SP;Módico; 9
+;4824020;Jadlog;Jadlog Rodoviario;SP;Capital; 3
+;4824020;Loggi;Loggi Standard;SP;SP Zona 1; 1
+;4824020;Speedlog;Speedlog Standard;SP;Capital; 3
+;4824020;Transfolha;Transfolha Terrestre;SP;GSP 3; 3
+;4824020;Nowlog;Nowlog Standard;SP;CAP.01; 4
+;26299147;Correios;Impresso Econômico;RJ;Módico; 10
+;26299147;Jadlog;Jadlog Rodoviario;RJ;Capital; 3
+;26299147;Speedlog;Speedlog Standard;RJ;Interior; 4
+;26299147;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;26299147;Correios;Impresso Econômico;RJ;Módico; 10
+;26299147;Jadlog;Jadlog Rodoviario;RJ;Capital; 3
+;26299147;Speedlog;Speedlog Standard;RJ;Interior; 4
+;26299147;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;20211140;Correios;Impresso Econômico;RJ;Módico; 10
+;20211140;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20211140;Loggi;Loggi Standard;RJ;RJ Zona 1; 2
+;20211140;Speedlog;Speedlog Standard;RJ;Capital; 4
+;20211140;Transfolha;Transfolha Terrestre;RJ;RJ 3; 3
+;20211140;GolLog;GolLog DOC;NA;DOC; 2
+;26299147;Correios;Impresso Econômico;RJ;Módico; 10
+;26299147;Jadlog;Jadlog Rodoviario;RJ;Capital; 3
+;26299147;Speedlog;Speedlog Standard;RJ;Interior; 4
+;26299147;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;20080003;Correios;Impresso Econômico;RJ;Módico; 10
+;20080003;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20080003;Loggi;Loggi Standard;RJ;RJ Zona 1; 2
+;20080003;Speedlog;Speedlog Standard;RJ;Capital; 3
+;20080003;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;20080003;GolLog;GolLog DOC;NA;DOC; 2
+;22790685;Correios;Impresso Econômico;RJ;Módico; 10
+;22790685;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;22790685;Loggi;Loggi Standard;RJ;RJ Zona 1; 2
+;22790685;Speedlog;Speedlog Standard;RJ;Capital; 3
+;22790685;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;22790685;GolLog;GolLog DOC;NA;DOC; 3
+;20080003;Correios;Impresso Econômico;RJ;Módico; 10
+;20080003;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;20080003;Loggi;Loggi Standard;RJ;RJ Zona 1; 2
+;20080003;Speedlog;Speedlog Standard;RJ;Capital; 3
+;20080003;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;20080003;GolLog;GolLog DOC;NA;DOC; 2
+;22790685;Correios;Impresso Econômico;RJ;Módico; 10
+;22790685;Jadlog;Jadlog Rodoviario;RJ;Capital; 2
+;22790685;Loggi;Loggi Standard;RJ;RJ Zona 1; 2
+;22790685;Speedlog;Speedlog Standard;RJ;Capital; 3
+;22790685;Transfolha;Transfolha Terrestre;RJ;RJ 3; 4
+;22790685;GolLog;GolLog DOC;NA;DOC; 3
