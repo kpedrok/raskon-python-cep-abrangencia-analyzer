@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 import io
 import time
-import datetime'
+import datetime
 
 
 ARQUIVO_TRANSPORTADORA_CSV = 'input-abrangencia.csv'
