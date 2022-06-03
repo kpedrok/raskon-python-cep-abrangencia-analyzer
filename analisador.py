@@ -4,7 +4,6 @@ import io
 import time
 import datetime
 
-
 ARQUIVO_TRANSPORTADORA_CSV = 'input-abrangencia.csv'
 ARQUIVO_CEP_CSV = 'input-cep.csv'
 ARQUIO_RESULTADO = 'output/analise_' + \
@@ -74,16 +73,15 @@ def _comparar_cep_transportadora(ceps):
 
 
 def gerar():
-
     start_time = time.time()
-    _log('Tag Livros - Ouro & Fino - Iniciando verificacao de CEP por transportadora ')
+    _log('Tag Livros - Iniciando verificacao de CEP por transportadora ')
     textfile = io.open(ARQUIVO_CEP_CSV, 'rt', newline='', encoding='utf-8')
     linhas_cep = textfile.readlines()
     _comparar_cep_transportadora(linhas_cep)
     elapsed_time = int(time.time() - start_time)
     minutos = elapsed_time // 60
     segundos = elapsed_time % 60
-    _log("Tag Livros - Ouro & Fino - Finalizado")
+    _log("Tag Livros - Finalizado")
     _log("timer:{}min{}seg".format(minutos, segundos))
     textfile.close()
 
